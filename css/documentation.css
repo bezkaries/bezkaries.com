@@ -242,6 +242,13 @@ label {
     cursor: pointer
 }
 
+label.error {
+    font-size: 13px;
+    font-weight: normal;
+    cursor: auto;
+    color: #c44
+}
+
 label small {
     font-weight: normal;
     color: #999

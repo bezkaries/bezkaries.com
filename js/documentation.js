@@ -154,6 +154,7 @@ $(function() {
   });
 
   // Global keyboard shortcuts
+  /*
   $("body").keyup(function(e) {
     if (e.keyCode == 83) {
       // S key
@@ -164,6 +165,7 @@ $(function() {
       $("#searchfield").focus();
     }
   });
+  */
 
   // Keyboard support for the search field
   $("#searchfield").keyup(function(e) {

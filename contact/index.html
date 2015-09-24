@@ -41,6 +41,48 @@
   <div id="wrapper">
     <div class="content">
       
+<script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.min.js"></script>
+
+<script>
+  // When the browser is ready...
+  $(function() {
+  
+    // Setup form validation on the #new_contact_request element
+    $("#new_contact_request").validate({
+    
+        // Specify the validation rules
+        rules: {
+            name: "required",
+            email: {
+                required: true,
+                email: true
+            },
+            phone: "required",
+            comments: "required"
+        },
+        
+        // Specify the validation error messages
+        messages: {
+            name: "Задължително поле",
+            email: "Невалиден email адрес",
+            phone: "Задължително поле",
+            comments: "Задължително поле"
+        },
+        
+        submitHandler: function(form) {
+            form.submit();
+        }
+    });
+
+  });
+
+  $(document).ready(function(){
+    $("button#toogle_consult_fields").click(function(){
+        $("div#consult_fields").show(500);
+    });
+  });
+</script>
+
 <h1 id="section">Форма за контакт</h1>
 
 <form accept-charset="UTF-8" action="http://108.61.198.227:2333/" class="new_contact_request" id="new_contact_request" method="post">
@@ -68,8 +110,22 @@
         <textarea cols="50" id="contact_request_comments" name="comments" rows="7" style="resize: vertical;"></textarea>
     </div>
 
+    <div id="consult_fields" style="display: none">
+    <p class="input" id="hour1">
+    <label for="contact_request_user_attributes_hour1">Предпочитана дата и час за консултация</label>
+    <input id="contact_request_user_attributes_hour1" name="hour1" type="datetime">
+    </p>
+    <p class="input" id="hour2">
+    <label for="contact_request_user_attributes_hour2">Предпочитана дата и час за консултация (в случай, че първият е зает)</label>
+    <input id="contact_request_user_attributes_hour2" name="hour2" type="datetime">
+    </p>
+    </div>
+
     <button class="btn-success js-trial-submit ga-button-trial-form-send" type="submit">
             Изпрати запитване
+    </button>
+    <button id="toogle_consult_fields" class="btn-default js-trial-submit ga-button-trial-form-send" type="button">
+            За виртуална консултация
     </button>
       </fieldset>
 </form>
