@@ -1,0 +1,9 @@
+---
+title: "БезКариес: Блог"
+is_hidden: true
+author_name: Radosveta Georgieva
+author_uri: http://bezkaries.com/blog/
+layout: false
+---
+
+<%= atom_feed :limit => 30, :articles => posts_list %>

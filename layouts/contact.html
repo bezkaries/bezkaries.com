@@ -1,0 +1,32 @@
+<%= render 'head' %>
+
+<body class="contact">
+  <%= render 'header' %>
+  <div id="wrapper">
+    <div class="content">
+      <%= yield %>
+    </div>
+
+    <div id="js-sidebar" class="sidebar-shell">
+      <div class="alert-message block note">
+        <h4>Работно време (частен прием):</h4>
+
+<table style="width:100%">
+<tr><td style="width:70%">Понеделник</td><td align="right">15:00 - 19:00</td></tr>
+<tr><td style="width:70%">Четвъртък</td><td align="right">15:00 - 19:00</td></tr>
+</table>
+      </div>
+
+      <div class="alert-message block muted">
+        <h4>Адрес</h4>
+        <p><a href="https://goo.gl/maps/bdY5u" target="_blank">ул. "Братя Шкорпил" 25<br>
+        Варна, 9000<br>
+        България</a></p>
+      </div>
+    </div><!-- /sidebar-shell -->
+
+  </div><!-- #wrapper -->
+  
+  <%= render 'footer' %>
+</body>
+</html>
