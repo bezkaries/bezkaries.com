@@ -47,7 +47,7 @@ layout: contact
 
 # Форма за контакт
 
-<form accept-charset="UTF-8" action="http://45.32.236.95:2333/" class="new_contact_request" id="new_contact_request" method="post">
+<form accept-charset="UTF-8" action="http://45.32.236.95:2333" class="new_contact_request" id="new_contact_request" method="post">
 
     <fieldset id="signup-form" class="ga-signup-form azure-enabled">
 

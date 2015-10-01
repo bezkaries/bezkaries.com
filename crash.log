@@ -1,62 +1,55 @@
-Crashlog created at 2015-09-24 07:30:17 +0300
+Crashlog created at 2015-09-30 19:26:45 +0300
 
 ===== MESSAGE:
 
-NoMethodError: undefined method `compiled_content' for #<String:0x007f8dfbde0a68>
+RuntimeError: Could not parse YAML for content/blog/2015-09-27-кой-е-виновен-за-всички-болести.markdown: (<unknown>): found unexpected end of stream while scanning a quoted scalar at line 3 column 7
 
 ===== COMPILATION STACK:
 
-  - [item]   /blog/ (rep default)
+  (empty)
 
 ===== STACK TRACE:
 
-  0. lib/blog_helper.rb:28:in `get_post_start'
-  1. layout /_posts/:4:in `block in get_binding'
-  2. layout /_posts/:1:in `each'
-  3. layout /_posts/:1:in `each_with_index'
-  4. layout /_posts/:1:in `get_binding'
-  5. /Users/pmitchev/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0/erb.rb:850:in `eval'
-  6. /Users/pmitchev/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0/erb.rb:850:in `result'
-  7. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/filters/erb.rb:33:in `run'
-  8. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/compilation/filter.rb:117:in `setup_and_run'
-  9. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/helpers/rendering.rb:118:in `render'
-  10. item /blog/ (rep default):2:in `get_binding'
-  11. /Users/pmitchev/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0/erb.rb:850:in `eval'
-  12. /Users/pmitchev/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0/erb.rb:850:in `result'
-  13. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/filters/erb.rb:33:in `run'
-  14. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/compilation/filter.rb:117:in `setup_and_run'
-  15. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/result_data/item_rep.rb:343:in `filter'
-  16. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/compilation/item_rep_proxy.rb:45:in `filter'
-  17. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/compilation/rule_context.rb:59:in `filter'
-  18. /Users/pmitchev/Projects/_work-files/bezkaries.com/Rules:44:in `block in parse'
-  19. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/compilation/rule.rb:69:in `instance_exec'
-  20. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/compilation/rule.rb:69:in `apply_to'
-  21. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/compilation/compiler.rb:385:in `compile_rep'
-  22. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/compilation/compiler.rb:341:in `block in compile_reps'
-  23. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/compilation/compiler.rb:334:in `loop'
-  24. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/compilation/compiler.rb:334:in `compile_reps'
-  25. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/compilation/compiler.rb:87:in `run'
-  26. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/source_data/site.rb:58:in `compile'
-  27. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/cli/commands/compile.rb:383:in `block in run'
-  28. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/cli/commands/compile.rb:425:in `run_listeners_while'
-  29. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/cli/commands/compile.rb:382:in `run'
-  30. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/cli/command_runner.rb:12:in `block in call'
-  31. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/cli/error_handler.rb:72:in `handle_while'
-  32. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/cli/error_handler.rb:24:in `handle_while'
-  33. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/cli/command_runner.rb:11:in `call'
-  34. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/cri-2.7.0/lib/cri/command_dsl.rb:233:in `block in runner'
-  35. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/cri-2.7.0/lib/cri/command.rb:294:in `call'
-  36. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/cri-2.7.0/lib/cri/command.rb:294:in `run_this'
-  37. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/cri-2.7.0/lib/cri/command.rb:247:in `run'
-  38. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/cri-2.7.0/lib/cri/command.rb:260:in `run'
-  39. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/cli.rb:58:in `block in run'
-  40. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/cli/error_handler.rb:72:in `handle_while'
-  41. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/cli/error_handler.rb:24:in `handle_while'
-  42. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/cli.rb:56:in `run'
-  43. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/bin/nanoc:25:in `<top (required)>'
-  44. /Users/pmitchev/.rvm/gems/ruby-2.1.6/bin/nanoc:23:in `load'
-  45. /Users/pmitchev/.rvm/gems/ruby-2.1.6/bin/nanoc:23:in `<main>'
-  46. /Users/pmitchev/.rvm/gems/ruby-2.1.6/bin/ruby_executable_hooks:15:in `eval'
+  0. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/data_sources/filesystem.rb:270:in `rescue in parse'
+  1. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/data_sources/filesystem.rb:267:in `parse'
+  2. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/data_sources/filesystem.rb:97:in `block in load_objects'
+  3. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/data_sources/filesystem.rb:84:in `each'
+  4. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/data_sources/filesystem.rb:84:in `map'
+  5. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/data_sources/filesystem.rb:84:in `load_objects'
+  6. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/data_sources/filesystem.rb:43:in `items'
+  7. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/source_data/site.rb:342:in `block in load_items'
+  8. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/source_data/site.rb:341:in `each'
+  9. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/source_data/site.rb:341:in `load_items'
+  10. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/source_data/site.rb:243:in `block in load'
+  11. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/source_data/site.rb:305:in `with_datasources'
+  12. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/source_data/site.rb:242:in `load'
+  13. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/source_data/site.rb:127:in `layouts'
+  14. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/compilation/compiler.rb:186:in `dependency_tracker'
+  15. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/memoization.rb:54:in `block in memoize'
+  16. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/compilation/compiler.rb:458:in `stores'
+  17. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/compilation/compiler.rb:145:in `unload'
+  18. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/source_data/site.rb:278:in `unload'
+  19. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/source_data/site.rb:258:in `rescue in load'
+  20. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/base/source_data/site.rb:262:in `load'
+  21. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/cli/command_runner.rb:62:in `load_site'
+  22. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/cli/commands/compile.rb:378:in `run'
+  23. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/cli/command_runner.rb:12:in `block in call'
+  24. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/cli/error_handler.rb:72:in `handle_while'
+  25. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/cli/error_handler.rb:24:in `handle_while'
+  26. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/cli/command_runner.rb:11:in `call'
+  27. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/cri-2.7.0/lib/cri/command_dsl.rb:233:in `block in runner'
+  28. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/cri-2.7.0/lib/cri/command.rb:294:in `call'
+  29. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/cri-2.7.0/lib/cri/command.rb:294:in `run_this'
+  30. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/cri-2.7.0/lib/cri/command.rb:247:in `run'
+  31. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/cri-2.7.0/lib/cri/command.rb:260:in `run'
+  32. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/cli.rb:58:in `block in run'
+  33. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/cli/error_handler.rb:72:in `handle_while'
+  34. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/cli/error_handler.rb:24:in `handle_while'
+  35. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/lib/nanoc/cli.rb:56:in `run'
+  36. /Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/nanoc-3.8.0/bin/nanoc:25:in `<top (required)>'
+  37. /Users/pmitchev/.rvm/gems/ruby-2.1.6/bin/nanoc:23:in `load'
+  38. /Users/pmitchev/.rvm/gems/ruby-2.1.6/bin/nanoc:23:in `<main>'
+  39. /Users/pmitchev/.rvm/gems/ruby-2.1.6/bin/ruby_executable_hooks:15:in `eval'
 
 ===== VERSION INFORMATION:
 
@@ -115,7 +108,7 @@ Darwin Petars-MacBook-Pro.local 14.5.0 Darwin Kernel Version 14.5.0: Wed Jul 29 
 
 Apple_PubSub_Socket_Render => "/private/tmp/com.apple.launchd.1yDHbFOcJE/Render"
 BUNDLE_BIN_PATH => "/Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/bundler-1.10.6/bin/bundle"
-BUNDLE_GEMFILE => "/Users/pmitchev/Projects/_work-files/bezkaries.com/Gemfile"
+BUNDLE_GEMFILE => "/Users/pmitchev/Projects/bezkaries.com/Gemfile"
 GEM_HOME => "/Users/pmitchev/.rvm/gems/ruby-2.1.6"
 GEM_PATH => "/Users/pmitchev/.rvm/gems/ruby-2.1.6:/Users/pmitchev/.rvm/gems/ruby-2.1.6@global"
 HOME => "/Users/pmitchev"
@@ -125,9 +118,9 @@ LC_CTYPE => "en_US.UTF-8"
 LOGNAME => "pmitchev"
 MANPATH => "/Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/kramdown-1.8.0/man"
 MY_RUBY_HOME => "/Users/pmitchev/.rvm/rubies/ruby-2.1.6"
-OLDPWD => "/Users/pmitchev/Projects/_work-files"
+OLDPWD => "/Users/pmitchev/Projects"
 PATH => "/Users/pmitchev/.rvm/gems/ruby-2.1.6/bin:/Users/pmitchev/.rvm/gems/ruby-2.1.6@global/bin:/Users/pmitchev/.rvm/rubies/ruby-2.1.6/bin:/Users/pmitchev/.rvm/bin:/Users/pmitchev/.rbenv/shims:/usr/local/sbin:/usr/local/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/usr/local/MacGPG2/bin"
-PWD => "/Users/pmitchev/Projects/_work-files/bezkaries.com"
+PWD => "/Users/pmitchev/Projects/bezkaries.com"
 RUBYLIB => "/Users/pmitchev/.rvm/gems/ruby-2.1.6/gems/bundler-1.10.6/lib"
 RUBYOPT => "-rbundler/setup"
 RUBY_VERSION => "ruby-2.1.6"
@@ -138,7 +131,7 @@ SSH_AUTH_SOCK => "/private/tmp/com.apple.launchd.19QeOXw47o/Listeners"
 TERM => "xterm-256color"
 TERM_PROGRAM => "Apple_Terminal"
 TERM_PROGRAM_VERSION => "343.7"
-TERM_SESSION_ID => "F24034D2-86FD-4B72-8352-0A60F7C0A6C0"
+TERM_SESSION_ID => "97778481-04E8-4765-9AF2-D3E50FD5374B"
 TMPDIR => "/var/folders/xb/k4gqpw_j2sn_hq9nk1n58hlw0000gn/T/"
 USER => "pmitchev"
 XPC_FLAGS => "0x0"
