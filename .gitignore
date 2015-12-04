@@ -13,3 +13,4 @@ tmp
 .bundle
 crash.log
 npm-debug.log
+static/search-index.json
