@@ -9,6 +9,8 @@ module BlogHelper
   # chronological order.
 
   DefaultTimeFormat ||= "%B %-d, %Y".freeze
+
+
   def post_date(item)
     strftime item[:created_at]
   end
