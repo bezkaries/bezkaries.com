@@ -1,5 +1,5 @@
 ---
-title: Зъболечение чрез реминерализацията | BezKaries.com
+title: Зъболечение чрез реминерализация | BezKaries.com
 layout: overview
 ---
 
