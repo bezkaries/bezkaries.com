@@ -1,5 +1,5 @@
 ---
-title: Зъболечение чрез превенция | BezKaries.com
+title: Зъболечение чрез реминерализацията | BezKaries.com
 layout: overview
 ---
 
