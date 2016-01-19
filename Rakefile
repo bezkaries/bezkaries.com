@@ -1,6 +1,6 @@
 require 'nanoc3/tasks'
 require 'tmpdir'
--
+
 task :default => [:test]
 
 desc "Compile the site"
