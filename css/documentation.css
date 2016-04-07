@@ -1274,44 +1274,6 @@ a .mega-icon {
 /*------------------------------------------------------------------------------
     Not Footer
 ------------------------------------------------------------------------------*/
-.feedback-callout {
-  background: #fff;
-}
-
-.feedback-callout .wrapper {
-  padding: 40px 0;
-}
-
-.feedback-callout h2 {
-  color: #eee;
-}
-
-.feedback-callout p {
-  color: #666;
-  font-size: 18px;
-  line-height: 1.5em;
-}
-
-.feedback-callout h2 {
-  margin: 0;
-}
-
-.feedback-callout p {
-  font-size: 16px;
-  margin: 10px 0 0;
-}
-
-.feedback-callout p.author {
-  font-size: 16px;
-  font-style: italic;
-  margin: 10px 0 0;
-  text-align: right;
-}
-/* end */
-
-/*------------------------------------------------------------------------------
-    Not Footer
-------------------------------------------------------------------------------*/
 #wrapper {
   padding: 20px 0;
   height: auto;
