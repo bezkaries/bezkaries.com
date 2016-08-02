@@ -1,0 +1,9 @@
+---
+kind: article
+title: "Лесно решение за проблеми с венците"
+created_at: 2016-08-03
+published: true
+comments: true
+tags:
+--- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AlMOcN9b0u8" frameborder="0" allowfullscreen></iframe>
