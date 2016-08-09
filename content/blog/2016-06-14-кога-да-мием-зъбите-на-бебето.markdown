@@ -1,0 +1,9 @@
+---
+kind: article
+title: "Кога да започнем да мием зъбите на бебето?"
+created_at: 2016-06-14
+published: true
+comments: true
+tags:
+--- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WdLQIZJ-BKc" frameborder="0" allowfullscreen></iframe>
