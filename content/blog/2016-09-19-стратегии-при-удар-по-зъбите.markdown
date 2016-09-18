@@ -1,0 +1,9 @@
+---
+kind: article
+title: "Детето ми си удари зъбите: 3 стратегии за действие"
+created_at: 2016-09-19
+published: true
+comments: true
+tags:
+--- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZX8D-QUvgcA" frameborder="0" allowfullscreen></iframe>
