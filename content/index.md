@@ -24,18 +24,18 @@ layout: overview
 <div class="full-width-divider">
   <ul class="wrapper highlights">
     <li class="highlight-module">
-      <a href="/information/#section-2"><span class="mega-icon fa fa-shield"></span></a>
-      <h2><a href="/information/#section-2">Защита от кариес</a></h2>
+      <span class="mega-icon fa fa-shield"></span>
+      <h2>Защита от кариес</h2>
       <p>Спрете появата и развитието на кариеси.</p>
     </li>
     <li class="highlight-module">
-      <a href="/information/#section-3"><span class="mega-icon fa fa-recycle"></span></a>
-      <h2><a href="/information/#section-3">Възстановяване</a></h2>
+      <span class="mega-icon fa fa-recycle"></span>
+      <h2>Възстановяване</h2>
       <p>Излекувайте кариесите без нужда от пломби.</p>
     </li>
     <li class="highlight-module">
-      <a href="/information/#section-4"><span class="mega-icon fa fa-leaf"></span></a>
-      <h2><a href="/information/#section-4">Без синтетични средства</a></h2>
+      <span class="mega-icon fa fa-leaf"></span>
+      <h2>Без синтетични средства</h2>
       <p>Естествени, научно доказани методи и средства.</p>
     </li>
   </ul>
@@ -43,18 +43,18 @@ layout: overview
 <div class="full-width-divider">
   <ul class="wrapper highlights">
     <li class="highlight-module">
-      <a href="/information/#section-1"><span class="mega-icon fa fa-lightbulb-o "></span></a>
-      <h2><a href="/information/#section-1">Кариес 101</a></h2>
+      <span class="mega-icon fa fa-lightbulb-o "></span>
+      <h2>Кариес 101</h2>
       <p>Замисляли ли сте се какво представлява кариеса?</p>
     </li>
     <li class="highlight-module">
-      <a href="/information/#section-5"><span class="mega-icon fa fa-heartbeat"></span></a>
-      <h2><a href="/information/#section-5">Подобрете здравето си</a></h2>
+      <span class="mega-icon fa fa-heartbeat"></span>
+      <h2>Подобрете здравето си</h2>
       <p>Запознайте се с връзката между здравите зъби и тялото.</p>
     </li>
     <li class="highlight-module">
-      <a href="/information/#section-6"><span class="mega-icon fa fa-child"></span></a>
-      <h2><a href="/information/#section-6">Без болка</a></h2>
+      <span class="mega-icon fa fa-child"></span>
+      <h2>Без болка</h2>
       <p>Зъболечение за деца и възрастни без страх и болка</p>
     </li>
   </ul>
@@ -62,8 +62,7 @@ layout: overview
 
 <div class="full-width feedback-callout">
   <div class="wrapper">
-    <p>"Лечението на д-р Симеонова спря процес, от който зъбките на сина ми се разпадаха с доста бързи темпове. Доверих й се, защото подходът й към лечението на зъбите е цялостен и логичен, съобразен със съвременните изследвания за нуждите на целия детски (и не само) организъм."</p>
+    <p class="quotes">"Лечението на д-р Симеонова спря процес, от който зъбките на сина ми се разпадаха с доста бързи темпове. Доверих й се, защото подходът й към лечението на зъбите е цялостен и логичен, съобразен със съвременните изследвания за нуждите на целия детски (и не само) организъм."</p>
     <p class="author">А.Г., София (родител на пациент)</p>
   </div>
 </div>
-
