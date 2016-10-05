@@ -1934,3 +1934,14 @@ pre span.comment {color: #aaa;}
 }
 
 /* @end */
+
+.quotes {
+  2ont-weight: 300;
+  font-size: 16px;
+  line-height: 1.2em;
+  color:#333;
+}
+.author {
+  font-size:13px;
+  color:#666;
+}
