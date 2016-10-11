@@ -32,5 +32,4 @@ tags:
 ![Nursing caries](/images/posts/preg3.jpg)
 
 * Името е променено, за да се запази анонимността на пациента
-
-
+a
