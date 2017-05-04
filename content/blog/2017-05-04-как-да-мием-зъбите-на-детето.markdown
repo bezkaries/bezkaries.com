@@ -1,0 +1,9 @@
+---
+kind: article
+title: "Видео: как да мием зъбите на детето си?"
+created_at: 2017-05-04
+published: true
+comments: true
+tags:
+--- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v6qAt9iZibA" frameborder="0" allowfullscreen></iframe>
