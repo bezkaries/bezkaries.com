@@ -1,6 +1,6 @@
 ---
 kind: article
-title: "Всичко генетично ли е наистина?"
+title: "Видео: всичко генетично ли е наистина?"
 created_at: 2016-10-04
 published: true
 comments: true

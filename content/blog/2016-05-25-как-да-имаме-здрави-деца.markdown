@@ -1,6 +1,6 @@
 ---
 kind: article
-title: "Как да имаме най-здравите деца"
+title: "Видео: как да имаме най-здравите деца"
 created_at: 2016-05-18 
 published: true
 comments: true

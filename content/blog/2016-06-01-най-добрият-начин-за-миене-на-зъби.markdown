@@ -1,6 +1,6 @@
 ---
 kind: article
-title: "Най-добрият начин за миене на зъби"
+title: "Видео: най-добрият начин за миене на зъби"
 created_at: 2016-05-18 
 published: true
 comments: true
