@@ -1,6 +1,6 @@
 ---
 kind: article
-title: "Лесно решение за проблеми с венците"
+title: "Видео: лесно решение за проблеми с венците"
 created_at: 2016-08-03
 published: true
 comments: true
