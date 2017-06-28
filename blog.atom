@@ -3,13 +3,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://bezkaries.com/</id>
   <title>БезКариес: Блог</title>
-  <updated>2017-05-29T21:00:00Z</updated>
+  <updated>2017-06-28T21:00:00Z</updated>
   <link rel="alternate" href="http://bezkaries.com/" />
   <link rel="self" href="http://bezkaries.com/blog.atom" />
   <author>
     <name>Radosveta Georgieva</name>
     <uri>http://bezkaries.com/blog/</uri>
   </author>
+  <entry>
+    <id>tag:bezkaries.com,2017-06-29:/blog/2017-06-29-наследствени-ли-са-лошите-зъби/</id>
+    <title type="html">Наследствени ли са “лошите зъби“?</title>
+    <published>2017-06-28T21:00:00Z</published>
+    <updated>2017-06-28T21:00:00Z</updated>
+    <link rel="alternate" href="http://bezkaries.com/blog/2017-06-29-наследствени-ли-са-лошите-зъби/" />
+    <content type="html">&lt;p&gt;Това е един чудесен въпрос! 
+Мои пациенти често са ми казвали, че техните родители или братя и сестри имат “лоши зъби” или преждевремнно загубени зъби, и се чувстват обречени на същата съдба. За щастие това е много далеч от истината.&lt;/p&gt;
+
+&lt;p&gt;Давам себе си за пример: моите зъби приличат на тези на баща ми. Към момента той е изгубил почти всичките си зъби, а негова стара рентгенова снимка показва колко драстична е била загубата на челюстна кост, когато той е бил на моите години. Макар да съм наследила неговите гени, аз полагам съвсем различни грижи за своите зъби и те са в отлично състояние за възрастта ми.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/images/posts/badteeth.jpg" alt="badteeth"&gt;&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;Не отричам, че има наследствени фактори, които определят склонността на индивида към някои заболявания, спрямо други. Но най-често това което се “наследява” са лошите хигиенни и хранителни навици, които неизменно водят до влошаване на здравето на зъбите и венците.&lt;/p&gt;
+
+&lt;p&gt;Ако и вие не вярвате, че само гените определят дали ще имате здрави зъби и венци, а искате да научите кои са най-подходящите средства за почистване на вашите зъби и уста; кои храни да избягвате и кои храни ще ви помогнат да стоите далеч от кариесите и пародонталните заболявания; кои неосъзнати навици вредят на здравето ви; не се колебайте да ми &lt;a href="http://www.bezkaries.com/contact/"&gt;разкажете&lt;/a&gt; за вашият проблем. Тъй като всеки е минал по различен път, довел го до настоящото му състояние, моята работа е да ви дам индивидуални препоръки, които да ви помогнат да поддържате зъбите и устата си здрави за цял живот.&lt;/p&gt;
+
+</content>
+  </entry>
   <entry>
     <id>tag:bezkaries.com,2017-05-30:/blog/2017-05-30-как-избелването-вреди-на-зъбите/</id>
     <title type="html">Как избелването уврежда зъбите ви?</title>
@@ -1243,16 +1264,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/25107703&lt;/p&gt;
     <link rel="alternate" href="http://bezkaries.com/blog/2016-06-14-кога-да-мием-зъбите-на-бебето/" />
     <content type="html">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/WdLQIZJ-BKc" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
 
-</content>
-  </entry>
-  <entry>
-    <id>tag:bezkaries.com,2016-05-18:/blog/2016-05-25-как-да-имаме-здрави-деца/</id>
-    <title type="html">Видео: как да имаме най-здравите деца</title>
-    <published>2016-05-17T21:00:00Z</published>
-    <updated>2016-05-17T21:00:00Z</updated>
-    <link rel="alternate" href="http://bezkaries.com/blog/2016-05-25-как-да-имаме-здрави-деца/" />
-    <content type="html">
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/7Wc8QMRqx-E" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
 </content>
   </entry>
 </feed>
