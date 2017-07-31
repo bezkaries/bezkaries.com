@@ -1,0 +1,13 @@
+---
+kind: article
+title: "Видео: Как да мием зъбите си правилно? - на гости на Маги Пашова"
+created_at: 2017-07-29
+published: true
+comments: true
+tags:
+--- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ugunkRYeUWo" frameborder="0" allowfullscreen></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=tf_til&ad_type=product_link&tracking_id=bezkariescom-21&marketplace=amazon&region=GB&placement=B00WLWZA5A&asins=B00WLWZA5A&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=tf_til&ad_type=product_link&tracking_id=bezkariescom-21&marketplace=amazon&region=GB&placement=B01G3I42Q0&asins=B01G3I42Q0&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
