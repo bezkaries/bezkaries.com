@@ -575,6 +575,7 @@ label .note {
 }
 
 #announce {
+  background-color: #ff4444;
   color: #ffffff;
   margin: 0 auto;
   padding-top: 3px;
