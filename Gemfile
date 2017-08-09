@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-ruby '2.2.3'
+ruby '2.4.1'
 
 gem 'builder'
 gem 'coderay'
@@ -11,7 +11,7 @@ gem 'nokogiri', '~> 1.6.7'
 gem 'rouge', '~> 1.4'
 gem 'rake', '~> 0.9.2'
 gem 'thin'
-gem 'yajl-ruby', '~> 0.8.2'
+gem 'yajl-ruby', '~> 1.2'
 
 group :development do
   gem 'adsf'

@@ -564,6 +564,41 @@ label .note {
 /* @end */
 
 /*------------------------------------------------------------------------------
+     Announce Styles
+------------------------------------------------------------------------------*/
+
+#announce-wrapper {
+  margin-bottom: 0;
+  clear: both;
+  height: 25px;
+  background-color: #ff4444;
+}
+
+#announce {
+  color: #ffffff;
+  margin: 0 auto;
+  padding-top: 3px;
+  max-width: 980px;
+  position: relative;
+  text-align: center;
+  font-size: 13px;
+}
+
+#announce a {
+  color: #ffffff;
+  padding-left: 10px;
+  text-decoration: underline;
+}
+
+#announce a:hover {
+  color: #f1f1f1;
+}
+
+/* @end */
+
+
+
+/*------------------------------------------------------------------------------
      Header Styles
 ------------------------------------------------------------------------------*/
 
@@ -1910,11 +1945,11 @@ pre span.comment {color: #aaa;}
 .social-share {
  font-size: 1px;
 }
- 
+
 /* This gets Facebook to fall into place */
 .social-share iframe {
   vertical-align: middle;
- 
+
 }
 .fb-like{
  margin-right:20px;
@@ -1927,7 +1962,7 @@ pre span.comment {color: #aaa;}
   display: inline-block;
   width: 110px;
 }
- 
+
 /* Adjust the widths individually if you like */
 .social-share .google {
   width: 75px;
