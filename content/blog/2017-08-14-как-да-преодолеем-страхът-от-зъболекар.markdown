@@ -1,0 +1,9 @@
+---
+kind: article
+title: "Видео: Страхът от зъболекар и как да го преодолеем?"
+created_at: 2017-08-14
+published: true
+comments: true
+tags:
+--- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ay56yxz0WEc" frameborder="0" allowfullscreen></iframe>
