@@ -1,0 +1,9 @@
+---
+kind: article
+title: "Видео: За ползите и вредите от веганизма"
+created_at: 2017-09-11
+published: true
+comments: true
+tags:
+--- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WEIwZw-VLIs" frameborder="0" allowfullscreen></iframe>
