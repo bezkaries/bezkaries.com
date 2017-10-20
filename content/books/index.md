@@ -5,6 +5,16 @@ layout: overview
 
 <div class="wrapper feature" style="height:520px;">
   <h1>
+    Първите зъбки: от А до Я
+  </h1>
+  <p class="intro">В тази книга ще откриете отговорите на най-често задаваните въпроси за млечните зъби на децата.</p>
+  <a href="/books/DrR.Simeonova-Pyrvite_zybki.pdf" target="book_bezkaries" class="button">Изтегли</a>
+  <img src="/images/books/pyrvizybki.jpg" class="toothfairy" alt="първите зъбки-от а до я" />
+</div>
+
+
+<div class="wrapper feature" style="height:520px;">
+  <h1>
     Моите тайни за по-здрави зъби.
   </h1>
   <p class="intro">В тази книга ще намерите лесни и ефективни съвети, с които да подобрите здравето на зъбите си още днес.</p>
