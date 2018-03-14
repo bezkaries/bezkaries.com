@@ -1,0 +1,9 @@
+---
+kind: article
+title: "Видео: вреден ли е биберонът за зъбите?"
+created_at: 2018-03-09
+published: true
+comments: true
+tags:
+--- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sMnLQ1qkYVc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
