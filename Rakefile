@@ -48,7 +48,6 @@ task :publish, [:no_commit_msg] => [:clean, :remove_output_dir] do |t, args|
     `git checkout gh-pages`
   end
   tmpdir = Dir.mktmpdir
-  FileUtils.cp_r("enterprise", tmpdir)
   FileUtils.cp("robots.txt", tmpdir)
   `git checkout master`
 
