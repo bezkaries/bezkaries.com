@@ -99,5 +99,8 @@ DEPENDENCIES
   thin
   yajl-ruby (~> 0.8.3)
 
+RUBY VERSION
+   ruby 2.3.3p222
+
 BUNDLED WITH
-   1.15.3
+   1.16.2
