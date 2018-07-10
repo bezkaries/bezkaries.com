@@ -1,0 +1,9 @@
+---
+kind: article
+title: "Видео: Какво ще ядем в бъдеще? Насекоми, водорасли и шарени бонбонки"
+created_at: 2018-07-11
+published: true
+comments: true
+tags:
+--- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jt56NCSdNDM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
