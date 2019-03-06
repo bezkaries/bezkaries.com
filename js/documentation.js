@@ -1,3 +1,15 @@
+/* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
+function mobileNav() {
+  var x = document.getElementById("topMenuNav");
+  if (x.className === "nav") {
+    console.log('test')
+    x.className += " responsive";
+  } else {
+    console.log('test2')
+    x.className = "nav";
+  }
+}
+
 // Init sidebar
 $(function() {
   var activeItem,
