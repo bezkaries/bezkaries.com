@@ -6,7 +6,7 @@ published: true
 comments: true
 tags:
 --- 
-Практикувайки функционална медицина, връзката УСТА-ТЯЛО винаги е матрицата в която мисля. И не е само в посоката как всичко, което слагаме в устата си влияе на тялото ни; обратното също е изключително важно: вече се знае, че [хроничният стрес](http://www.bezkaries.com/blog/2014-06-29-%D1%81%D1%82%D1%80%D0%B5%D1%81%D1%8A%D1%82/) или дефицита на някои [витамини и минерали](http://www.bezkaries.com/blog/2014-03-12-%D0%B2%D0%B8%D1%82%D0%B0%D0%BC%D0%B8%D0%BD%D0%B8/) могат да повлияят значително здравето на устата.
+Практикувайки функционална медицина, връзката УСТА-ТЯЛО винаги е матрицата в която мисля. И не е само в посоката как всичко, което слагаме в устата си влияе на тялото ни; обратното също е изключително важно: вече се знае, че [хроничният стрес](https://bezkaries.com/blog/2014-06-29-%D1%81%D1%82%D1%80%D0%B5%D1%81%D1%8A%D1%82/) или дефицита на някои [витамини и минерали](https://bezkaries.com/blog/2014-03-12-%D0%B2%D0%B8%D1%82%D0%B0%D0%BC%D0%B8%D0%BD%D0%B8/) могат да повлияят значително здравето на устата.
 
 **Но наистина ли заболяване по зъбите и венците може да повлияе здравето на цялото тяло? Може ли влошеното орално здраве да има връзка с автоимунно заболяване? И ако да, какво да направим, за да спрем пагубният процес?**
 
@@ -56,13 +56,13 @@ tags:
 
 ##Как да спрете омагьосаният кръг на разпространяване на болестта от устата към тялото и обратно?
 
-1. [Научете се как да миете зъбите си правилно](http://www.bezkaries.com/blog/2017-05-18-%D1%82%D1%80%D0%B8-%D0%B3%D1%80%D0%B5%D1%88%D0%BA%D0%B8-%D0%BF%D1%80%D0%B8-%D0%BC%D0%B8%D0%B5%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%B7%D1%8A%D0%B1%D0%B8/). Научете и децата си как да мият зъботе си правилно, за да няма никаква възможност на бактериите да колонизират устите им.
+1. [Научете се как да миете зъбите си правилно](https://bezkaries.com/blog/2017-05-18-%D1%82%D1%80%D0%B8-%D0%B3%D1%80%D0%B5%D1%88%D0%BA%D0%B8-%D0%BF%D1%80%D0%B8-%D0%BC%D0%B8%D0%B5%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%B7%D1%8A%D0%B1%D0%B8/). Научете и децата си как да мият зъботе си правилно, за да няма никаква възможност на бактериите да колонизират устите им.
 
-2. Почиствайте междузъбните пространства и масажирайте венците с [воден душ](http://amzn.to/2h8QEyx) или [конец за зъби](http://www.bezkaries.com/blog/2016-08-10-%D0%BA%D0%BE%D0%BD%D0%B5%D1%86-%D0%B7%D0%B0-%D0%B7%D1%8A%D0%B1%D0%B8/)
+2. Почиствайте междузъбните пространства и масажирайте венците с [воден душ](http://amzn.to/2h8QEyx) или [конец за зъби](https://bezkaries.com/blog/2016-08-10-%D0%BA%D0%BE%D0%BD%D0%B5%D1%86-%D0%B7%D0%B0-%D0%B7%D1%8A%D0%B1%D0%B8/)
 
-3. [Научете се как да поддържате здравословен биофилм в устата си](http://www.bezkaries.com/blog/2016-11-30-%D0%B1%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D0%B8-%D0%B8-%D0%BF%D0%BB%D0%B0%D0%BA%D0%B0/).
+3. [Научете се как да поддържате здравословен биофилм в устата си](https://bezkaries.com/blog/2016-11-30-%D0%B1%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D0%B8-%D0%B8-%D0%BF%D0%BB%D0%B0%D0%BA%D0%B0/).
 
-4. Ако вече имате пародонтално заболяване, потърсете [професионална помощ и подкрепа](http://www.bezkaries.com/services/).
+4. Ако вече имате пародонтално заболяване, потърсете [професионална помощ и подкрепа](https://bezkaries.com/services/).
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=tf_til&ad_type=product_link&tracking_id=bezkariescom-21&marketplace=amazon&region=GB&placement=B00WLWZA5A&asins=B00WLWZA5A&linkId=&show_border=true&link_opens_in_new_window=true">
 </iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=tf_til&ad_type=product_link&tracking_id=bezkariescom-21&marketplace=amazon&region=GB&placement=B01G3I42Q0&asins=B01G3I42Q0&linkId=&show_border=true&link_opens_in_new_window=true">
