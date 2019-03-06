@@ -570,7 +570,7 @@ label .note {
 #announce-wrapper {
   margin-bottom: 0;
   clear: both;
-  height: 25px;
+  height: 37px;
   background-color: #ff6302;
 }
 
@@ -583,6 +583,8 @@ label .note {
   position: relative;
   text-align: center;
   font-size: 13px;
+  height: 33px;
+  vertical-align: middle;
 }
 
 #announce a {
@@ -605,6 +607,7 @@ label .note {
 
 #header-wrapper {
   margin-bottom: 0;
+  width: 100%;
   clear: both;
   height: 61px;
   background: url(../images/header.png) 0 0 repeat-x;
@@ -612,14 +615,13 @@ label .note {
 
 #header {
   margin: 0 auto;
-  max-width: 980px;
+  width: 100%;
   position: relative;
 }
 
 #header .logo {
   float: left;
-  margin-top: 17px;
-  display: inline-block;
+  margin-top:17px;
   width: 186px;
   height: 27px;
   background: url(/images/logo.png) 0 0 no-repeat;
@@ -629,14 +631,14 @@ label .note {
 #header .nav {
   float: right;
   font-weight: bold;
-  margin-top: 20px;
   text-shadow: white 1px 1px 0px;
   font-size: 14px;
+  margin-right: 10px;
 }
 
 #header .nav li {
+  margin-top: 20px;
   display: inline-block;
-  margin: 0;
   list-style-type: none;
   line-height: 1.4em;
 }
@@ -645,7 +647,7 @@ label .note {
   color: #515151;
   outline: none;
   text-decoration: none;
-  padding: 20px 11px 19px;
+  padding: 0 15px;
   -webkit-transition: color 0.2s ease-in-out 0s;
   -moz-transition: color 0.2s ease-in-out 0s;
   transition: color 0.2s ease-in-out 0s;
@@ -826,6 +828,72 @@ label .note {
 
 #header #search-results li:last-child {
   border-bottom: none;
+}
+
+.nav a.icon {
+  font-size: 42px;
+  display: none;
+}
+
+@media screen and (min-width: 801px) {
+  .nav-home {display: none;}
+}
+
+@media screen and (max-width: 800px) {
+  #header .nav li {
+    margin-top: 0;
+  }
+  .nav li a, .nav li#search-container, #header .logo {display: none;}
+  .nav li a.icon {
+    float: right;
+    display: block;
+    margin-top: 10px;
+  }
+  .nav.responsive {position: relative;}
+  .nav.responsive li a.icon {
+    margin-top: 0px;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
+  .nav.responsive {
+    width: 100%;
+  }
+  .nav.responsive li {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    z-index:10;
+    position: relative;
+    background-color: #fff;
+    display: block;
+    width: 100%;
+  }
+  .nav.responsive li a, .nav.responsive li#search-container {
+    float: none;
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+
+  .nav.responsive li.mobileLines {
+    z-index:20;
+    background-color: transparent;
+    padding: 0;
+    padding-bottom: 57px;
+  }
+
+  .nav.responsive li a.icon {
+    margin-top: 10px;
+    margin-right: 14px;
+    text-align: right;
+  }
+  .nav.responsive #search-container #searchfield, .nav.responsive #search-container.active #searchfield {
+    width: 100%;
+  }
+  .nav.responsive #search-container label {
+    margin-top: 20px;
+  }
 }
 
 /*------------------------------------------------------------------------------
@@ -1337,7 +1405,7 @@ a .mega-icon {
 }
 
 .blog .content {
-  margin-bottom: 60px;
+  margin-bottom: 5px;
 }
 
 .content dt {
@@ -1980,4 +2048,78 @@ pre span.comment {color: #aaa;}
 .author {
   font-size:13px;
   color:#666;
+}
+
+.product-nav {
+  display: block;
+  margin: 1.5em 0;
+}
+
+.nav-flex {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.nav-flex a {
+  background: #bfbfbf;
+  color: #fff;
+  font-weight: normal;
+  padding: .5em .75em;
+  margin: .25em;
+  border-radius: 3px;
+  display: block;
+  text-transform: lowercase;
+}
+
+.product-container {
+  align-items: center;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.product-container h2 {
+  flex-basis: 100%;
+  max-width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1em;
+}
+
+.product-container .product-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 15px;
+  text-align: center;
+}
+
+@media screen and (max-width: 920px) {
+  .content, .sidebar-shell {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 95%;
+  }
+  .change {
+    padding-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .feature {
+    height: auto;
+    margin-bottom: 10px;
+  }
+  .feature .toothfairy {display: none;}
+
+  .product-container {
+    display: grid;
+    grid-gap: 20px 20px;
+    grid-template-columns: auto;
+  }
 }

@@ -10,7 +10,13 @@
   <div id="header">
     <div>
       <a class="logo" href="/">BezKaries.com</a>
-      <ul class="nav">
+      <ul class="nav" id="topMenuNav">
+        <li class="mobileLines">
+          <a href="javascript:void(0);" class="icon" onclick="mobileNav()">
+            <i class="fa fa-bars"></i>
+          </a>
+        </li>
+        <li><a href="/" class="nav-home">Начало</a></li>
         <li><a href="/about/" class="nav-about">За мен</a></li>
         <li><a href="/blog/" class="nav-blog">Блог</a></li>
         <li><a href="/services/" class="nav-services">Консултиране</a></li>
@@ -19,7 +25,6 @@
           <input type="text" id="searchfield" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" /><label class="search-placeholder">Търсене</label>
           <div class="cancel-search"></div>
           <ul id="search-results">
-
           </ul>
         </li>
       </ul>
