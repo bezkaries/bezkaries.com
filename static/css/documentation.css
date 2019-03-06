@@ -2099,7 +2099,7 @@ pre span.comment {color: #aaa;}
   text-align: center;
 }
 
-@media screen and (max-width: 920px) {
+@media screen and (max-width: 1024px) {
   .content, .sidebar-shell {
     margin-left: 10px;
     margin-right: 10px;
@@ -2108,9 +2108,7 @@ pre span.comment {color: #aaa;}
   .change {
     padding-bottom: 20px;
   }
-}
-
-@media screen and (max-width: 800px) {
+  
   .feature {
     height: auto;
     margin-bottom: 10px;
