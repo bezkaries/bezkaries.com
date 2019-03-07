@@ -1,6 +1,6 @@
 <%= render 'head' %>
 
-<body class="overview">
+<body class="overview <%= @item[:body_class] %>">
   <%= render 'header' %>
 
   <%= yield %>

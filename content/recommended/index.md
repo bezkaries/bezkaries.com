@@ -1,13 +1,16 @@
 ---
 title: Препоръчани стоматологични продукти | BezKaries.com
 layout: overview
+body_class: recommended
 ---
 
 <div class="product-nav">
   <ul class="nav-flex">
     <li><a href="#books">Книги</a></li>
+    <!--
     <li><a href="#toothpastes">Четки за зъби</a></li>
     <li><a href="#toothbrushes">Пасти за зъби</a></li>
+    //-->
   </ul>
 </div>
 
@@ -28,6 +31,7 @@ layout: overview
   </div>
 
 
+  <!--
   <h2><a id="toothpastes"></a>Четки за зъби</h2>
 
   <div class="product-item">
@@ -75,4 +79,5 @@ layout: overview
     <div class="product-item-description">contains Nano-hydroxyapatite (Fluoride-free): mint, green tea &amp; cardamom flavor</div>
     <p><a class="button" href="http://shrsl.com/16gbp">Buy Now</a></p>
   </div>
+  //-->
 </div>
