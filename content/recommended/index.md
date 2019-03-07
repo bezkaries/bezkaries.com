@@ -1,5 +1,5 @@
 ---
-title: Препоръчани стоматологични продукти | BezKaries.com
+title: Препоръчани продукти | BezKaries.com
 layout: overview
 body_class: recommended
 ---
