@@ -7,6 +7,7 @@ body_class: recommended
 <div class="product-nav">
   <ul class="nav-flex">
     <li><a href="#books">Книги</a></li>
+    <li><a href="#education">Обучителни материали</a></li>
     <!--
     <li><a href="#toothpastes">Четки за зъби</a></li>
     <li><a href="#toothbrushes">Пасти за зъби</a></li>
@@ -31,6 +32,14 @@ body_class: recommended
   </div>
 
 
+
+  <h2><a id="education"></a>Обучителни материали</h2>
+  <div class="product-item">
+    <div class="image-wrapper"><a href="https://www.youtube.com/watch?v=ImEy8NRblEY&list=PL6mQChybozg_JowT_dYcGd2CSxaFb4GrF"><img src="/images/recommended/education/BezKariesChallange.jpg" alt="Предизвикателството Без Кариес"></a></div>
+    <h3><a href="https://www.youtube.com/watch?v=ImEy8NRblEY&list=PL6mQChybozg_JowT_dYcGd2CSxaFb4GrF">Предизвикателството Без Кариес</a></h3>
+    <div class="product-item-description">Седем видео-стъпки за по-здрави зъби</div>
+    <p><a class="button" href="https://www.youtube.com/watch?v=ImEy8NRblEY&list=PL6mQChybozg_JowT_dYcGd2CSxaFb4GrF">Гледай</a></p>
+  </div>
   <!--
   <h2><a id="toothpastes"></a>Четки за зъби</h2>
 
