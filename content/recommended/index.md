@@ -8,6 +8,7 @@ body_class: recommended
   <ul class="nav-flex">
     <li><a href="#books">Книги</a></li>
     <li><a href="#education">Обучителни материали</a></li>
+    <li><a href="#whitening">Избелване</a></li>
     <!--
     <li><a href="#toothpastes">Четки за зъби</a></li>
     <li><a href="#toothbrushes">Пасти за зъби</a></li>
@@ -39,6 +40,17 @@ body_class: recommended
     <h3><a href="https://www.youtube.com/watch?v=ImEy8NRblEY&list=PL6mQChybozg_JowT_dYcGd2CSxaFb4GrF">Предизвикателството Без Кариес</a></h3>
     <div class="product-item-description">Седем видео-стъпки за по-здрави зъби</div>
     <p><a class="button" href="https://www.youtube.com/watch?v=ImEy8NRblEY&list=PL6mQChybozg_JowT_dYcGd2CSxaFb4GrF">Гледай</a></p>
+  </div>
+
+
+
+  <h2><a id="whitening"></a>Избелване</h2>
+  <div class="product-item">
+    <div class="image-wrapper"><a href="https://www.youtube.com/watch?v=ImEy8NRblEY&list=PL6mQChybozg_JowT_dYcGd2CSxaFb4GrF"><img src="/images/recommended/whitening/cocopowder.jpg" alt="Кокосов въглен за избелване на зъби"></a></div>
+    <h3><a href="https://glowsmile.bg/?wpam_id=23">Кокосов въглен за избелване на зъби</a></h3>
+    <div class="product-item-description">Използвайте до 2 седмици, 2 пъти в годината. Не е подходящо за хора, предразположени към кариеси!</div>
+    <p><a class="button" href="https://www.youtube.com/watch?v=ImEy8NRblEY&list=PL6mQChybozg_JowT_dYcGd2CSxaFb4GrF">Видео ревю</a></p>
+    <p><a class="button" href="https://glowsmile.bg/?wpam_id=23">Купи</a></p>
   </div>
   <!--
   <h2><a id="toothpastes"></a>Четки за зъби</h2>
