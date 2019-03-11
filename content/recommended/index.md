@@ -46,9 +46,9 @@ body_class: recommended
 
   <h2><a id="whitening"></a>Избелване</h2>
   <div class="product-item">
-    <div class="image-wrapper"><a href="https://www.youtube.com/watch?v=ImEy8NRblEY&list=PL6mQChybozg_JowT_dYcGd2CSxaFb4GrF"><img src="/images/recommended/whitening/cocopowder.jpg" alt="Кокосов въглен за избелване на зъби"></a></div>
+    <div class="image-wrapper"><a href="https://glowsmile.bg/?wpam_id=23"><img src="/images/recommended/whitening/cocopowder.jpg" alt="Кокосов въглен за избелване на зъби"></a></div>
     <h3><a href="https://glowsmile.bg/?wpam_id=23">Кокосов въглен за избелване на зъби</a></h3>
-    <div class="product-item-description">Използвайте до 2 седмици, 2 пъти в годината. Не е подходящо за хора, предразположени към кариеси!</div>
+    <div class="product-item-description">Използвайте до 2 седмици, 2 пъти в годината. Не е подходящо за хора, предразположени към кариеси. Консултирайте се с Вашият зъболекар преди употреба.</div>
     <p><a class="button" href="https://www.youtube.com/watch?v=ImEy8NRblEY&list=PL6mQChybozg_JowT_dYcGd2CSxaFb4GrF">Видео ревю</a></p>
     <p><a class="button" href="https://glowsmile.bg/?wpam_id=23">Купи</a></p>
   </div>
