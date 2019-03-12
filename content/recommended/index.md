@@ -9,6 +9,7 @@ body_class: recommended
     <li><a href="#books">Книги</a></li>
     <li><a href="#education">Обучителни материали</a></li>
     <li><a href="#whitening">Избелване</a></li>
+    <li><a href="#hometests">Домашни тестове</a></li>
     <!--
     <li><a href="#toothpastes">Четки за зъби</a></li>
     <li><a href="#toothbrushes">Пасти за зъби</a></li>
@@ -48,9 +49,19 @@ body_class: recommended
   <div class="product-item">
     <div class="image-wrapper"><a href="https://glowsmile.bg/?wpam_id=23"><img src="/images/recommended/whitening/cocopowder.jpg" alt="Кокосов въглен за избелване на зъби"></a></div>
     <h3><a href="https://glowsmile.bg/?wpam_id=23">Кокосов въглен за избелване на зъби</a></h3>
-    <div class="product-item-description">Използвайте до 2 седмици, 2 пъти в годината. Консултирайте се с Вашият зъболекар преди употреба.</div>
+    <div class="product-item-description">Използвайте за 2 седмици, 2 пъти в годината. Консултирайте се с Вашият зъболекар преди употреба.</div>
     <p><a class="button" href="https://youtu.be/vNIuJFkYFos">Видео ревю</a>
     <a class="button" href="https://glowsmile.bg/?wpam_id=23">Купи</a></p>
+  </div>
+
+
+
+  <h2><a id="hometests"></a>Домашни тестове</h2>
+  <div class="product-item">
+    <div class="image-wrapper"><a href="http://bezcaries.com/детектори-на-зъбна-плака/"><img src="/images/recommended/hometests/plaquedetector.jpg" alt="Детектор за бактериална плака"></a></div>
+    <h3><a href="http://bezcaries.com/детектори-на-зъбна-плака/">Детектор за бактериална плака</a></h3>
+    <div class="product-item-description">Специалната светлина оцветява чистите зъби в зелено, а бактериите в розово.</div>
+    <p><a class="button" href="http://bezcaries.com/детектори-на-зъбна-плака/">Виж повече</a></p>
   </div>
   <!--
   <h2><a id="toothpastes"></a>Четки за зъби</h2>
