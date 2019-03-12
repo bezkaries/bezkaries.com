@@ -10,11 +10,10 @@ body_class: recommended
     <li><a href="#education">Обучителни материали</a></li>
     <li><a href="#whitening">Избелване</a></li>
     <li><a href="#hometests">Домашни тестове</a></li>
-    <li><a href="#hometests">Отстъпки</a></li>
-    <!--
-    <li><a href="#toothpastes">Четки за зъби</a></li>
-    <li><a href="#toothbrushes">Пасти за зъби</a></li>
-    //-->
+    <li><a href="#discounts">Отстъпки</a></li>
+    <li><a href="#supplements">Хранителни добавки</a></li>
+
+   
   </ul>
 </div>
 
@@ -81,53 +80,25 @@ body_class: recommended
     <p><a class="button" href="https://lifestore.bg">Пазарувай</a></p>
   </div>
 
-  <!--
-  <h2><a id="toothpastes"></a>Четки за зъби</h2>
 
+
+<h2><a id="supplements"></a>Хранителни добавки</h2>
   <div class="product-item">
-    <div class="image-wrapper"><a href="http://shrsl.com/16gbp"><img width="80%" height="auto" src="https://zxate13fczb17a0n833z2mnj-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Boka-Ela-Mint-Toothpaste-390x270.jpg" alt="ela mint toothpaste"></a></div>
-    <h3><a href="https://askthedentist.com/product/boka-ela-mint-toothpaste/">Boka Ela Mint Toothpaste</a></h3>
-    <div class="product-item-description">contains Nano-hydroxyapatite (Fluoride-free): mint, green tea &amp; cardamom flavor</div>
-    <p><a class="button" href="http://shrsl.com/16gbp">Buy Now</a></p>
+    <div class="image-wrapper"><a href="https://www.amazon.co.uk/gp/product/B001ELLBJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B001ELLBJS&linkCode=as2&tag=bezkariescom-21"><img src="/images/recommended/discounts/realfood.jpg" alt="Колаген (желиращ)"></a></div>
+    <h3><a href="https://www.amazon.co.uk/gp/product/B001ELLBJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B001ELLBJS&linkCode=as2&tag=bezkariescom-21">Колаген (желиращ)</a></h3>
+    <div class="product-item-description">Подобрява здравето на венците. Винаги комбинирайте с естествен витамин С от плодове и зеленчуци</div>
+    <p><a class="button" href="https://bezkaries.com/blog/2016-09-12-полезни-бонбони/">Виж рецепта</a>
+    <a class="button" href="https://www.amazon.co.uk/gp/product/B001ELLBJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B001ELLBJS&linkCode=as2&tag=bezkariescom-21">Купи от amazon</a></p>
   </div>
 
   <div class="product-item">
-    <div class="image-wrapper"><a href="http://shrsl.com/16gbp"><img width="80%" height="auto" src="https://zxate13fczb17a0n833z2mnj-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Boka-Ela-Mint-Toothpaste-390x270.jpg" alt="ela mint toothpaste"></a></div>
-    <h3><a href="https://askthedentist.com/product/boka-ela-mint-toothpaste/">Boka Ela Mint Toothpaste</a></h3>
-    <div class="product-item-description">contains Nano-hydroxyapatite (Fluoride-free): mint, green tea &amp; cardamom flavor</div>
-    <p><a class="button" href="http://shrsl.com/16gbp">Buy Now</a></p>
-  </div>
-
-  <div class="product-item">
-    <div class="image-wrapper"><a href="http://shrsl.com/16gbp"><img width="80%" height="auto" src="https://zxate13fczb17a0n833z2mnj-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Boka-Ela-Mint-Toothpaste-390x270.jpg" alt="ela mint toothpaste"></a></div>
-    <h3><a href="https://askthedentist.com/product/boka-ela-mint-toothpaste/">Boka Ela Mint Toothpaste</a></h3>
-    <div class="product-item-description">contains Nano-hydroxyapatite (Fluoride-free): mint, green tea &amp; cardamom flavor</div>
-    <p><a class="button" href="http://shrsl.com/16gbp">Buy Now</a></p>
+    <div class="image-wrapper"><a href="https://amzn.to/2EXhQ0Z"><img src="/images/recommended/discounts/realfood.jpg" alt="Колаген на прах"></a></div>
+    <h3><a href="https://amzn.to/2EXhQ0Z">Колаген на прах</a></h3>
+    <div class="product-item-description">Подобрява здравето на венците. Винаги комбинирайте с естествен витамин С от плодове и зеленчуци</div>
+    <p><a class="button" href="https://bezkaries.com/blog/2017-03-12-пет-причини-да-приемаме-колаген/">Прочети повече</a>
+    <a class="button" href="https://amzn.to/2EXhQ0Z">Купи от amazon</a></p>
   </div>
 
 
 
-  <h2><a id="toothbrushes"></a>Пасти за зъби</h2>
-
-  <div class="product-item">
-    <div class="image-wrapper"><a href="http://shrsl.com/16gbp"><img width="80%" height="auto" src="https://zxate13fczb17a0n833z2mnj-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Boka-Ela-Mint-Toothpaste-390x270.jpg" alt="ela mint toothpaste"></a></div>
-    <h3><a href="https://askthedentist.com/product/boka-ela-mint-toothpaste/">Boka Ela Mint Toothpaste</a></h3>
-    <div class="product-item-description">contains Nano-hydroxyapatite (Fluoride-free): mint, green tea &amp; cardamom flavor</div>
-    <p><a class="button" href="http://shrsl.com/16gbp">Buy Now</a></p>
-  </div>
-
-  <div class="product-item">
-    <div class="image-wrapper"><a href="http://shrsl.com/16gbp"><img width="80%" height="auto" src="https://zxate13fczb17a0n833z2mnj-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Boka-Ela-Mint-Toothpaste-390x270.jpg" alt="ela mint toothpaste"></a></div>
-    <h3><a href="https://askthedentist.com/product/boka-ela-mint-toothpaste/">Boka Ela Mint Toothpaste</a></h3>
-    <div class="product-item-description">contains Nano-hydroxyapatite (Fluoride-free): mint, green tea &amp; cardamom flavor</div>
-    <p><a class="button" href="http://shrsl.com/16gbp">Buy Now</a></p>
-  </div>
-
-  <div class="product-item">
-    <div class="image-wrapper"><a href="http://shrsl.com/16gbp"><img width="80%" height="auto" src="https://zxate13fczb17a0n833z2mnj-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Boka-Ela-Mint-Toothpaste-390x270.jpg" alt="ela mint toothpaste"></a></div>
-    <h3><a href="https://askthedentist.com/product/boka-ela-mint-toothpaste/">Boka Ela Mint Toothpaste</a></h3>
-    <div class="product-item-description">contains Nano-hydroxyapatite (Fluoride-free): mint, green tea &amp; cardamom flavor</div>
-    <p><a class="button" href="http://shrsl.com/16gbp">Buy Now</a></p>
-  </div>
-  //-->
 </div>
