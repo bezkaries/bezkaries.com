@@ -10,6 +10,7 @@ body_class: recommended
     <li><a href="#education">Обучителни материали</a></li>
     <li><a href="#whitening">Избелване</a></li>
     <li><a href="#hometests">Домашни тестове</a></li>
+    <li><a href="#hometests">Отстъпки</a></li>
     <!--
     <li><a href="#toothpastes">Четки за зъби</a></li>
     <li><a href="#toothbrushes">Пасти за зъби</a></li>
