@@ -84,7 +84,7 @@ body_class: recommended
 
 <h2><a id="supplements"></a>Хранителни добавки</h2>
   <div class="product-item">
-    <div class="image-wrapper"><a href="https://www.amazon.co.uk/gp/product/B001ELLBJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B001ELLBJS&linkCode=as2&tag=bezkariescom-21"><img src="/images/recommended/discounts/realfood.jpg" alt="Колаген (желиращ)"></a></div>
+    <div class="image-wrapper"><a href="https://www.amazon.co.uk/gp/product/B001ELLBJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B001ELLBJS&linkCode=as2&tag=bezkariescom-21"><img src="/images/recommended/supplements/greatlakes1.jpg" alt="Колаген (желиращ)"></a></div>
     <h3><a href="https://www.amazon.co.uk/gp/product/B001ELLBJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B001ELLBJS&linkCode=as2&tag=bezkariescom-21">Колаген (желиращ)</a></h3>
     <div class="product-item-description">Подобрява здравето на венците. Винаги комбинирайте с естествен витамин С от плодове и зеленчуци</div>
     <p><a class="button" href="https://bezkaries.com/blog/2016-09-12-полезни-бонбони/">Виж рецепта</a>
@@ -92,7 +92,7 @@ body_class: recommended
   </div>
 
   <div class="product-item">
-    <div class="image-wrapper"><a href="https://amzn.to/2EXhQ0Z"><img src="/images/recommended/discounts/realfood.jpg" alt="Колаген на прах"></a></div>
+    <div class="image-wrapper"><a href="https://amzn.to/2EXhQ0Z"><img src="/images/recommended/supplements/greatlakes2.jpg" alt="Колаген на прах"></a></div>
     <h3><a href="https://amzn.to/2EXhQ0Z">Колаген на прах</a></h3>
     <div class="product-item-description">Подобрява здравето на венците. Винаги комбинирайте с естествен витамин С от плодове и зеленчуци</div>
     <p><a class="button" href="https://bezkaries.com/blog/2017-03-12-пет-причини-да-приемаме-колаген/">Прочети повече</a>
