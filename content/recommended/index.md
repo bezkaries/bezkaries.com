@@ -67,10 +67,10 @@ body_class: recommended
 
 <h2><a id="discounts"></a>Отстъпки</h2>
   <div class="product-item">
-    <div class="image-wrapper"><a href="https://realfood.bg"><img src="/images/recommended/discounts/realfood.jpg" alt="Код за 5% отстъпка BEZKARIES"></a></div>
-    <h3><a href="https://realfood.bg">Код за 5% отстъпка BEZKARIES</a></h3>
+    <div class="image-wrapper"><a href="https://realfood.bg/cart/Ds1oaZINbKdz734mHwjC3XTqs33WwEnWBdyQ1MFH"><img src="/images/recommended/discounts/realfood.jpg" alt="Код за 5% отстъпка BEZKARIES"></a></div>
+    <h3><a href="https://realfood.bg/cart/Ds1oaZINbKdz734mHwjC3XTqs33WwEnWBdyQ1MFH">Код за 5% отстъпка BEZKARIES</a></h3>
     <div class="product-item-description">При пазаруване в магазин RealFood използвайте код BEZKARIES за 5% отстъпка от всички продукти</div>
-    <p><a class="button" href="https://realfood.bg">Пазарувай</a></p>
+    <p><a class="button" href="https://realfood.bg/cart/Ds1oaZINbKdz734mHwjC3XTqs33WwEnWBdyQ1MFH">Пазарувай</a></p>
   </div>
 
   <div class="product-item">
