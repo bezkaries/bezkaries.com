@@ -8,11 +8,12 @@ body_class: recommended
   <ul class="nav-flex">
     <li><a href="#books">Книги</a></li>
     <li><a href="#education">Обучителни материали</a></li>
+    <li><a href="#oralcare">Грижа за зъбите</a></li>
     <li><a href="#whitening">Избелване</a></li>
     <li><a href="#hometests">Домашни тестове</a></li>
-    <li><a href="#discounts">Отстъпки</a></li>
     <li><a href="#supplements">Хранителни добавки</a></li>
-    <li><a href="#oralcare">Грижа за зъбите</a></li>
+    <li><a href="#discounts">Отстъпки</a></li>
+    
 
    
   </ul>
@@ -45,6 +46,17 @@ body_class: recommended
   </div>
 
 
+  
+  <h2><a id="oralcare"></a>Грижа за зъбите</h2>
+  <div class="product-item">
+    <div class="image-wrapper"><a href="https://amzn.to/2HxRLsz"><img src="/images/recommended/oralcare/waterpik.jpg" alt="Зъбен душ Waterpik"></a></div>
+    <h3><a href="https://amzn.to/2HxRLsz">Зъбен душ Waterpik</a></h3>
+    <div class="product-item-description">Почиства труднодостъпни за четката места - между зъбите, около венците, брекети, коронки</div>
+    <p><a class="button" href="https://youtu.be/0jURRwxOooU">Виж видео</a>
+    <a class="button" href="https://amzn.to/2HxRLsz">Купи от amazon</a></p>
+  </div>
+
+
 
   <h2><a id="whitening"></a>Избелване</h2>
   <div class="product-item">
@@ -63,22 +75,6 @@ body_class: recommended
     <h3><a href="http://bezcaries.com/детектори-на-зъбна-плака/">Детектор за бактериална плака</a></h3>
     <div class="product-item-description">Специалната светлина оцветява чистите зъби в зелено, а бактериите в розово.</div>
     <p><a class="button" href="http://bezcaries.com/детектори-на-зъбна-плака/">Виж повече</a></p>
-  </div>
-
-
-<h2><a id="discounts"></a>Отстъпки</h2>
-  <div class="product-item">
-    <div class="image-wrapper"><a href="https://realfood.bg/cart/Ds1oaZINbKdz734mHwjC3XTqs33WwEnWBdyQ1MFH"><img src="/images/recommended/discounts/realfood.jpg" alt="Код за 5% отстъпка BEZKARIES"></a></div>
-    <h3><a href="https://realfood.bg/cart/Ds1oaZINbKdz734mHwjC3XTqs33WwEnWBdyQ1MFH">Код за 5% отстъпка BEZKARIES</a></h3>
-    <div class="product-item-description">При пазаруване в магазин RealFood използвайте код BEZKARIES за 5% отстъпка за избрани продукти</div>
-    <p><a class="button" href="https://realfood.bg/cart/Ds1oaZINbKdz734mHwjC3XTqs33WwEnWBdyQ1MFH">Пазарувай</a></p>
-  </div>
-
-  <div class="product-item">
-    <div class="image-wrapper"><a href="https://lifestore.bg"><img src="/images/recommended/discounts/lifestore.jpg" alt="Код за 5% отстъпка BEZKARIES"></a></div>
-    <h3><a href="https://lifestore.bg">Код за 5% отстъпка BEZKARIES</a></h3>
-    <div class="product-item-description">При пазаруване в магазин LifeStore използвайте код BEZKARIES за 5% отстъпка от всички продукти</div>
-    <p><a class="button" href="https://lifestore.bg">Пазарувай</a></p>
   </div>
 
 
@@ -119,12 +115,21 @@ body_class: recommended
 
 
 
-  <h2><a id="oralcare"></a>Грижа за зъбите</h2>
+  <h2><a id="discounts"></a>Отстъпки</h2>
   <div class="product-item">
-    <div class="image-wrapper"><a href="https://amzn.to/2HxRLsz"><img src="/images/recommended/oralcare/waterpik.jpg" alt="Зъбен душ Waterpik"></a></div>
-    <h3><a href="https://amzn.to/2HxRLsz">Зъбен душ Waterpik</a></h3>
-    <div class="product-item-description">Почиства труднодостъпни за четката места - между зъбите, около венците, брекети, коронки</div>
-    <p><a class="button" href="https://youtu.be/0jURRwxOooU">Виж видео</a>
-    <a class="button" href="https://amzn.to/2HxRLsz">Купи от amazon</a></p>
+    <div class="image-wrapper"><a href="https://realfood.bg/cart/Ds1oaZINbKdz734mHwjC3XTqs33WwEnWBdyQ1MFH"><img src="/images/recommended/discounts/realfood.jpg" alt="Код за 5% отстъпка BEZKARIES"></a></div>
+    <h3><a href="https://realfood.bg/cart/Ds1oaZINbKdz734mHwjC3XTqs33WwEnWBdyQ1MFH">Код за 5% отстъпка BEZKARIES</a></h3>
+    <div class="product-item-description">При пазаруване в магазин RealFood използвайте код BEZKARIES за 5% отстъпка за избрани продукти</div>
+    <p><a class="button" href="https://realfood.bg/cart/Ds1oaZINbKdz734mHwjC3XTqs33WwEnWBdyQ1MFH">Пазарувай</a></p>
   </div>
+
+  <div class="product-item">
+    <div class="image-wrapper"><a href="https://lifestore.bg"><img src="/images/recommended/discounts/lifestore.jpg" alt="Код за 5% отстъпка BEZKARIES"></a></div>
+    <h3><a href="https://lifestore.bg">Код за 5% отстъпка BEZKARIES</a></h3>
+    <div class="product-item-description">При пазаруване в магазин LifeStore използвайте код BEZKARIES за 5% отстъпка от всички продукти</div>
+    <p><a class="button" href="https://lifestore.bg">Пазарувай</a></p>
+  </div>
+
+  
+
 </div>
