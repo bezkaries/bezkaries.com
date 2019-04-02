@@ -9,7 +9,9 @@ layout: overview
     вашите зъби и венци<br />
     днес?
   </h1>
-  <p class="intro">Опознайте как работи тялото ви и променете концепцията си за здравите зъби.</p>
+  <p class="intro">Какво е реминерализиращо лечение?<br />
+  За кого е подходящо?<br />
+Какви ползи можете да очаквате?<br /></p>
   <a href="/information/" class="button">Научи повече</a>
   <img src="/images/tooth-fairy.png" class="toothfairy" alt="tooth fairy" />
 </div>
