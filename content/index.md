@@ -18,8 +18,8 @@ layout: overview
 
 <div class="full-width dev-program-callout">
   <div class="wrapper">
-    <h2>Виртуална консултация.</h2>
-    <p>Спестете от времето си, но не и от качеството, чрез нашата "Виртуална консултация". <a href="/services/#section-1">Научете повече</a>.</p>
+    <h2>БЕЗ КАРИЕС</h2>
+    <p>Невидимата връзка между зъбите и цялостното здраве <a href="https://bezkaries.com/recommended/#books">Очаквайте скоро</a>.</p>
   </div>
 </div>
 
