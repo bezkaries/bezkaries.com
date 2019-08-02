@@ -24,7 +24,7 @@ body_class: recommended
   <div class="product-item">
     <div class="image-wrapper"><a href="/books/DrR.Simeonova-Pyrvite_zybki.pdf"><img src="/images/recommended/books/bezkaries.jpg" alt="БЕЗ КАРИЕС"></a></div>
     <h3><a href="/books/DrR.Simeonova-Pyrvite_zybki.pdf">БЕЗ КАРИЕС</a></h3>
-    <div class="product-item-description">За неочакваната връзка между зъбите и цялостното здраве.</div>
+    <div class="product-item-description">За невидимата връзка между зъбите и цялостното здраве.</div>
     <p><a class="button" href="/books/">Купи онлайн</a></p>
   </div>
 
