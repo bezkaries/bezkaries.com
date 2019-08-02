@@ -22,10 +22,10 @@ body_class: recommended
 <div class="product-container">
   <h2><a id="books"></a>Книги</h2>
   <div class="product-item">
-    <div class="image-wrapper"><a href="/books/DrR.Simeonova-Pyrvite_zybki.pdf"><img src="/images/recommended/books/bezkaries.jpg" alt="БЕЗ КАРИЕС"></a></div>
-    <h3><a href="/books/DrR.Simeonova-Pyrvite_zybki.pdf">БЕЗ КАРИЕС</a></h3>
+    <div class="image-wrapper"><a href="/books/https://bezkaries.com/blog/2019-08-02-за-невидимата-връзка-на-зъбите-с-здравето/"><img src="/images/recommended/books/bezkaries.jpg" alt="БЕЗ КАРИЕС"></a></div>
+    <h3><a href="/books/https://bezkaries.com/blog/2019-08-02-за-невидимата-връзка-на-зъбите-с-здравето/">БЕЗ КАРИЕС</a></h3>
     <div class="product-item-description">За невидимата връзка между зъбите и цялостното здраве.</div>
-    <p><a class="button" href="/books/">Купи онлайн</a></p>
+    <p><a class="button" href="/books/https://bezkaries.com/blog/2019-08-02-за-невидимата-връзка-на-зъбите-с-здравето/">Купи онлайн</a></p>
   </div>
 
   <div class="product-item">
