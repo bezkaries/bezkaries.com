@@ -25,7 +25,7 @@ body_class: recommended
     <div class="image-wrapper"><a href="https://bezkaries.com/blog/2019-08-02-за-невидимата-връзка-на-зъбите-с-здравето/"><img src="/images/recommended/books/bezkaries.jpg" alt="БЕЗ КАРИЕС"></a></div>
     <h3><a href="https://bezkaries.com/blog/2019-08-02-за-невидимата-връзка-на-зъбите-с-здравето/">БЕЗ КАРИЕС</a></h3>
     <div class="product-item-description">За невидимата връзка между зъбите и цялостното здраве.</div>
-    <p><a class="button" href="https://bezkaries.com/blog/2019-08-02-за-невидимата-връзка-на-зъбите-с-здравето/">Купи онлайн</a></p>
+    <p><a class="button" href="https://bezkaries.com/blog/2019-08-02-за-невидимата-връзка-на-зъбите-с-здравето/#httpskibeanetbook2718fbclidiwar2mtbl0g11dz36wug31bdukpdmfkldjvwqgfidgrgz90mpdwdnnhgrauq--------httpsbezkariescomcontact----">Купи онлайн</a></p>
   </div>
 
   <div class="product-item">
