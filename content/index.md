@@ -19,8 +19,8 @@ layout: overview
 <div class="full-width dev-program-callout">
   <div class="wrapper">
     <h2>БЕЗ КАРИЕС</h2>
-    <p>Невидимата връзка между зъбите и цялостното здраве<br />  
-      <a href="https://bezkaries.com/recommended/#books">Търсете в книжарниците, онлайн или лично от Д-р Симеонова</a>.</p>
+    <p>Проблемите със зъбите при децата не са проблем само на зъбите. Научете как да върнете здравето на детето си там, където трябва да е!<br />  
+      <a href="https://programa.bezkaries.com">Програма "Здрави зъбки"</a>.</p>
   </div>
 </div>
 
