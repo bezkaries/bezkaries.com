@@ -92,7 +92,7 @@ body_class: recommended
     <h3><a href="https://www.amazon.co.uk/gp/product/B001ELLBJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B001ELLBJS&linkCode=as2&tag=bezkariescom-21">Колаген (желиращ)</a></h3>
     <div class="product-item-description">Подобрява здравето на венците. Винаги комбинирайте с естествен източник на витамин С (плодове и зеленчуци)</div>
     <p><a class="button" href="https://bezkaries.com/blog/2016-09-12-полезни-бонбони/">Виж рецепта</a>
-    <a class="button" href="https://www.amazon.co.uk/gp/product/B001ELLBJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B001ELLBJS&linkCode=as2&tag=bezkariescom-21">Купи от amazon</a></p>
+    <a class="button" href="https://realfood.bg/product/beef-gelatin">Купи от realfood.bg с отстъпка</a></p>
   </div>
 
   <div class="product-item">
@@ -100,7 +100,7 @@ body_class: recommended
     <h3><a href="https://amzn.to/2EXhQ0Z">Колаген на прах</a></h3>
     <div class="product-item-description">Подобрява здравето на венците. Винаги комбинирайте с естествен източник на витамин С (плодове и зеленчуци)</div>
     <p><a class="button" href="https://bezkaries.com/blog/2017-03-12-пет-причини-да-приемаме-колаген/">Прочети повече</a>
-    <a class="button" href="https://amzn.to/2EXhQ0Z">Купи от amazon</a></p>
+    <a class="button" href="https://realfood.bg/product/hidroliziran-kolagen">Купи от realfood.bg с отстъпка</a></p>
   </div>
 
   <div class="product-item">
@@ -108,7 +108,7 @@ body_class: recommended
     <h3><a href="https://amzn.to/2HwTkXt">Рибено масло от треска</a></h3>
     <div class="product-item-description">Пълноценен източник на витамин А, D и незаменими мастни киселини. За профилактика и лечение на зъбите.</div>
     <p><a class="button" href="https://bezkaries.com/blog/2019-03-13-задължително-ли-е-рибеното-масло-за-здрави-зъби/">Прочети повече</a>
-    <a class="button" href="https://amzn.to/2HwTkXt">Купи от amazon</a></p>
+    <a class="button" href="https://realfood.bg/category/ribeno-maslo">Купи от realfood.bg с отстъпка</a></p>
   </div>
 
 
@@ -117,7 +117,7 @@ body_class: recommended
     <h3><a href="https://amzn.to/2Uzi98R">Ферментирало рибено масло от треска</a></h3>
     <div class="product-item-description">Пълноценен източник на витамин А, D и незаменими мастни киселини. За профилактика и лечение на зъбите.</div>
     <p><a class="button" href="https://bezkaries.com/blog/2019-03-13-задължително-ли-е-рибеното-масло-за-здрави-зъби/">Прочети повече</a>
-    <a class="button" href="https://amzn.to/2Uzi98R">Купи от amazon</a></p>
+    <a class="button" href="hhttps://lifestore.bg/blueiceroyalblendgreenpasture-120-kaps">Купи от lifestore.bg с отстъпка</a></p>
   </div>
 
 
