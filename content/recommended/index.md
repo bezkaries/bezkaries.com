@@ -52,6 +52,13 @@ body_class: recommended
     <p><a class="button" href="https://www.youtube.com/watch?v=ImEy8NRblEY&list=PL6mQChybozg_JowT_dYcGd2CSxaFb4GrF">Гледай</a></p>
   </div>
 
+  <div class="product-item">
+    <div class="image-wrapper"><a href="https://programa.bezkaries.com"><img src="/images/recommended/education/programa-zdravi-zabki-image-4.jpg" alt="Програма Здрави зъбки"></a></div>
+    <h3><a href="https://programa.bezkaries.com">Програма Здрави зъбки</a></h3>
+    <div class="product-item-description">Онлайн програма за здрави детски зъби</div>
+    <p><a class="button" href="https://programa.bezkaries.com">Виж повече</a></p>
+  </div>
+
 
   
   <h2><a id="oralcare"></a>Грижа за зъбите</h2>
@@ -63,6 +70,13 @@ body_class: recommended
     <a class="button" href="https://amzn.to/2HxRLsz">Купи от amazon</a></p>
   </div>
 
+  <div class="product-item">
+    <div class="image-wrapper"><a href="https://realfood.bg/product/dr-hishams-alkaline-mouth-rinse-500ml"><img src="/images/recommended/oralcare/mouthwash.jpg" alt="Алкализираша вода за уста"></a></div>
+    <h3><a href="https://realfood.bg/product/dr-hishams-alkaline-mouth-rinse-500ml">Алкализираща вода за уста</a></h3>
+    <div class="product-item-description">Със състваки насочени към балансиране и подхранване на слюнката за по-здрави зъби и венци</div>
+    <p><a class="button" href="https://realfood.bg/product/dr-hishams-alkaline-mouth-rinse-500ml">Прочети повече</a>
+    <a class="button" href="https://realfood.bg/cart/discount:bezkaries">Купи от realfood.bg</a></p>
+  </div>
 
 
   <h2><a id="whitening"></a>Избелване</h2>
@@ -127,7 +141,7 @@ body_class: recommended
     <div class="image-wrapper"><a href=" https://realfood.bg/cart/discount:bezkaries"><img src="/images/recommended/discounts/realfood.jpg" alt="Код за 5% отстъпка BEZKARIES"></a></div>
     <h3><a href=" https://realfood.bg/cart/discount:bezkaries">Код за 5% отстъпка BEZKARIES</a></h3>
     <div class="product-item-description">При пазаруване в магазин RealFood използвайте код BEZKARIES за 5% отстъпка за избрани продукти</div>
-    <p><a class="button" href=" https://realfood.bg/cart/discount:bezkaries">Пазарувай</a></p>
+    <p><a class="button" href="https://realfood.bg/cart/discount:bezkaries">Пазарувай</a></p>
   </div>
 
   <div class="product-item">
