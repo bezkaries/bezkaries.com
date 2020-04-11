@@ -146,7 +146,7 @@ body_class: recommended
     <h3><a href="https://amzn.to/2HwTkXt">Рибено масло от треска</a></h3>
     <div class="product-item-description">Пълноценен източник на витамин А, D и незаменими мастни киселини. За профилактика и лечение на зъбите.</div>
     <p><a class="button" href="https://bezkaries.com/blog/2019-03-13-задължително-ли-е-рибеното-масло-за-здрави-зъби/">Прочети повече</a>
-    <a class="button" href="https://realfood.bg/cart/discount:bezkaries">Купи с отстъпка</a></p>
+    <a class="button" href="https://realfood.bg/cart/discount:bezkaries">Купи от realfood.bg</a></p>
   </div>
 
 
