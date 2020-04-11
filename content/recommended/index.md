@@ -62,20 +62,44 @@ body_class: recommended
 
   
   <h2><a id="oralcare"></a>Грижа за зъбите</h2>
+   <div class="product-item">
+    <div class="image-wrapper"><a href="https://realfood.bg/product/organic-dental-detox-tooth-whitening-powder"><img src="/images/recommended/oralcare/dentaldetox.jpg" alt="Пудра за зъби"></a></div>
+    <h3><a href="https://realfood.bg/product/organic-dental-detox-tooth-whitening-powder">Пудра за зъби/a></h3>
+    <div class="product-item-description">Реминерализираща и избелваща пудра. Използвайте 5% отстъпка с код BEZKARIES</div>
+    <p><a class="button" href="https://realfood.bg/product/organic-dental-detox-tooth-whitening-powder">Прочети повече</a>
+    <a class="button" href="https://realfood.bg/cart/discount:bezkaries">Купи</a></p>
+  </div>
+
+   <div class="product-item">
+    <div class="image-wrapper"><a href="https://realfood.bg/product/dr-hishams-alkaline-mouth-rinse-500ml"><img src="/images/recommended/oralcare/mouthwash.jpg" alt="Алкализираща вода за уста"></a></div>
+    <h3><a href="https://realfood.bg/product/dr-hishams-alkaline-mouth-rinse-500ml">Алкализираща вода за уста</a></h3>
+    <div class="product-item-description">Балансира и подхранва на слюнката за по-здрави зъби и венци. Използвайте 5% отстъпка с код BEZKARIES</div>
+    <p><a class="button" href="https://realfood.bg/product/dr-hishams-alkaline-mouth-rinse-500ml">Прочети повече</a>
+    <a class="button" href="https://realfood.bg/cart/discount:bezkaries">Купи от realfood.bg</a></p>
+  </div>
+
+   <div class="product-item">
+    <div class="image-wrapper"><a href="https://realfood.bg/product/dr-hishams-adult-vital-teeth-serum"><img src="/images/recommended/oralcare/vitalserum.jpg" alt="Паста за зъби люта мента"></a></div>
+    <h3><a href="https://realfood.bg/product/dr-hishams-adult-vital-teeth-serum">Паста за зъби люта мента</a></h3>
+    <div class="product-item-description">Паста за зъби с хидроксиапатит. Използвайте 5% отстъпка с код BEZKARIES</div>
+    <p><a class="button" href="https://realfood.bg/product/dr-hishams-adult-vital-teeth-serum">Прочети повече</a>
+    <a class="button" href="https://realfood.bg/cart/discount:bezkaries">Купи от realfood.bg</a></p>
+  </div>
+
+   <div class="product-item">
+    <div class="image-wrapper"><a href="https://realfood.bg/product/dr-hishams-baby-teeth-serum"><img src="/images/recommended/oralcare/babyserum.jpg" alt="Паста за зъби мента"></a></div>
+    <h3><a href="https://realfood.bg/product/dr-hishams-baby-teeth-serum">Паста за зъби мента</a></h3>
+    <div class="product-item-description">Паста за зъби с хидроксиапатит. Използвайте 5% отстъпка с код BEZKARIES</div>
+    <p><a class="button" href="https://realfood.bg/product/dr-hishams-baby-teeth-serum">Прочети повече</a>
+    <a class="button" href="https://realfood.bg/cart/discount:bezkaries">Купи от realfood.bg</a></p>
+  </div>
+
   <div class="product-item">
     <div class="image-wrapper"><a href="https://amzn.to/2HxRLsz"><img src="/images/recommended/oralcare/waterpik.jpg" alt="Зъбен душ Waterpik"></a></div>
     <h3><a href="https://amzn.to/2HxRLsz">Зъбен душ Waterpik</a></h3>
     <div class="product-item-description">Почиства труднодостъпни за четката места - между зъбите, около венците, брекети, коронки</div>
     <p><a class="button" href="https://youtu.be/0jURRwxOooU">Виж видео</a>
     <a class="button" href="https://amzn.to/2HxRLsz">Купи от amazon</a></p>
-  </div>
-
-  <div class="product-item">
-    <div class="image-wrapper"><a href="https://realfood.bg/product/dr-hishams-alkaline-mouth-rinse-500ml"><img src="/images/recommended/oralcare/mouthwash.jpg" alt="Алкализираша вода за уста"></a></div>
-    <h3><a href="https://realfood.bg/product/dr-hishams-alkaline-mouth-rinse-500ml">Алкализираща вода за уста</a></h3>
-    <div class="product-item-description">Със състваки насочени към балансиране и подхранване на слюнката за по-здрави зъби и венци</div>
-    <p><a class="button" href="https://realfood.bg/product/dr-hishams-alkaline-mouth-rinse-500ml">Прочети повече</a>
-    <a class="button" href="https://realfood.bg/cart/discount:bezkaries">Купи от realfood.bg</a></p>
   </div>
 
 
@@ -122,7 +146,7 @@ body_class: recommended
     <h3><a href="https://amzn.to/2HwTkXt">Рибено масло от треска</a></h3>
     <div class="product-item-description">Пълноценен източник на витамин А, D и незаменими мастни киселини. За профилактика и лечение на зъбите.</div>
     <p><a class="button" href="https://bezkaries.com/blog/2019-03-13-задължително-ли-е-рибеното-масло-за-здрави-зъби/">Прочети повече</a>
-    <a class="button" href="https://realfood.bg/category/ribeno-maslo">Купи от realfood.bg</a></p>
+    <a class="button" href="https://realfood.bg/cart/discount:bezkaries">Купи с отстъпка</a></p>
   </div>
 
 
@@ -131,7 +155,7 @@ body_class: recommended
     <h3><a href="https://amzn.to/2Uzi98R">Ферментирало рибено масло от треска</a></h3>
     <div class="product-item-description">Пълноценен източник на витамин А, D и незаменими мастни киселини. За профилактика и лечение на зъбите.</div>
     <p><a class="button" href="https://bezkaries.com/blog/2019-03-13-задължително-ли-е-рибеното-масло-за-здрави-зъби/">Прочети повече</a>
-    <a class="button" href="hhttps://lifestore.bg/blueiceroyalblendgreenpasture-120-kaps">Купи от lifestore.bg</a></p>
+    <a class="button" href="hhttps://lifestore.bg/blueiceroyalblendgreenpasture-120-kaps">Купи с отстъпка</a></p>
   </div>
 
 
