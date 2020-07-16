@@ -66,7 +66,7 @@ body_class: recommended
     <div class="image-wrapper"><a href="https://realfood.bg/product/organic-dental-detox-tooth-whitening-powder"><img src="/images/recommended/oralcare/dentaldetox.jpg" alt="Пудра за зъби"></a></div>
     <h3><a href="https://realfood.bg/product/organic-dental-detox-tooth-whitening-powder">Пудра за зъби</a></h3>
     <div class="product-item-description">Реминерализираща и избелваща пудра. Използвайте 5% отстъпка с код BEZKARIES</div>
-    <p><a class="button" href="https://realfood.bg/product/organic-dental-detox-tooth-whitening-powder">Прочети повече</a>
+    <p><a class="button" href="https://bezkaries.com/blog/2020-04-11-хидроксиапатит/">Прочети повече</a>
     <a class="button" href="https://realfood.bg/cart/discount:bezkaries">Купи от realfood.bg</a></p>
   </div>
 
@@ -74,7 +74,7 @@ body_class: recommended
     <div class="image-wrapper"><a href="https://realfood.bg/product/dr-hishams-alkaline-mouth-rinse-500ml"><img src="/images/recommended/oralcare/mouthrinse.jpg" alt="Алкализираща вода за уста"></a></div>
     <h3><a href="https://realfood.bg/product/dr-hishams-alkaline-mouth-rinse-500ml">Алкализираща вода за уста</a></h3>
     <div class="product-item-description">Балансира и подхранва на слюнката за по-здрави зъби и венци. Използвайте 5% отстъпка с код BEZKARIES</div>
-    <p><a class="button" href="https://realfood.bg/product/dr-hishams-alkaline-mouth-rinse-500ml">Прочети повече</a>
+    <p><a class="button" href="https://bezkaries.com/blog/2020-04-11-хидроксиапатит/">Прочети повече</a>
     <a class="button" href="https://realfood.bg/cart/discount:bezkaries">Купи от realfood.bg</a></p>
   </div>
 
@@ -82,7 +82,7 @@ body_class: recommended
     <div class="image-wrapper"><a href="https://realfood.bg/product/dr-hishams-adult-vital-teeth-serum"><img src="/images/recommended/oralcare/vitalserum.jpg" alt="Паста за зъби люта мента"></a></div>
     <h3><a href="https://realfood.bg/product/dr-hishams-adult-vital-teeth-serum">Паста за зъби люта мента</a></h3>
     <div class="product-item-description">Паста за зъби с хидроксиапатит. Използвайте 5% отстъпка с код BEZKARIES</div>
-    <p><a class="button" href="https://realfood.bg/product/dr-hishams-adult-vital-teeth-serum">Прочети повече</a>
+    <p><a class="button" href="https://bezkaries.com/blog/2020-04-11-хидроксиапатит/">Прочети повече</a>
     <a class="button" href="https://realfood.bg/cart/discount:bezkaries">Купи от realfood.bg</a></p>
   </div>
 
@@ -90,7 +90,7 @@ body_class: recommended
     <div class="image-wrapper"><a href="https://realfood.bg/product/dr-hishams-baby-teeth-serum"><img src="/images/recommended/oralcare/babyserum.jpg" alt="Паста за зъби мента"></a></div>
     <h3><a href="https://realfood.bg/product/dr-hishams-baby-teeth-serum">Паста за зъби мента</a></h3>
     <div class="product-item-description">Паста за зъби с хидроксиапатит. Използвайте 5% отстъпка с код BEZKARIES</div>
-    <p><a class="button" href="https://realfood.bg/product/dr-hishams-baby-teeth-serum">Прочети повече</a>
+    <p><a class="button" href="https://bezkaries.com/blog/2020-04-11-хидроксиапатит/">Прочети повече</a>
     <a class="button" href="https://realfood.bg/cart/discount:bezkaries">Купи от realfood.bg</a></p>
   </div>
 
