@@ -24,7 +24,9 @@ layout: overview
   </div>
 </div>
 
+<center>
 <a href="https://www.healee.com/bg/580824" target="_blank"><img alt="Онлайн консултация" src="https://www.healee.com/img/buttons/btn-healee-white-large-bg.1558022028001.png" width= "265px" height="50px"/></a>
+</center>
 
 <div class="full-width-divider">
   <ul class="wrapper highlights">
