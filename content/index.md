@@ -25,10 +25,8 @@ layout: overview
 </div>
 
 <div class="full-width feedback-callout">
-  <div class="wrapper">
-    <center>
+  <div class="wrapper" style="margin-top: 15px; margin-bottom: 15px; text-align: center">
     <a href="https://www.healee.com/bg/580824" target="_blank"><img alt="Онлайн консултация" src="https://www.healee.com/img/buttons/btn-healee-white-large-bg.1558022028001.png" width= "265px" height="50px"/></a>
-    </center>
   </div>
 </div>
 
