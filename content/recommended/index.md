@@ -63,6 +63,14 @@ body_class: recommended
   
   <h2><a id="oralcare"></a>Грижа за зъбите</h2>
    <div class="product-item">
+    <div class="image-wrapper"><a href="https://realfood.bg/product/remineralizirasht-prah-za-izbelvane-na-zabi"><img src="/images/recommended/oralcare/shine.jpg" alt="Пудра за зъби"></a></div>
+    <h3><a href="https://realfood.bg/product/remineralizirasht-prah-za-izbelvane-na-zabi">Реминерализиращ прах</a></h3>
+    <div class="product-item-description">Реминерализиращ прах за зъби. Използвайте 5% отстъпка с код BEZKARIES</div>
+    <p><a class="button" href="https://bezkaries.com/blog/2020-04-11-хидроксиапатит/">Прочети повече</a>
+    <a class="button" href="https://realfood.bg/cart/discount:bezkaries">Купи от realfood.bg</a></p>
+  </div>
+
+   <div class="product-item">
     <div class="image-wrapper"><a href="https://realfood.bg/product/organic-dental-detox-tooth-whitening-powder"><img src="/images/recommended/oralcare/dentaldetox.jpg" alt="Пудра за зъби"></a></div>
     <h3><a href="https://realfood.bg/product/organic-dental-detox-tooth-whitening-powder">Пудра за зъби</a></h3>
     <div class="product-item-description">Реминерализираща и избелваща пудра. Използвайте 5% отстъпка с код BEZKARIES</div>
