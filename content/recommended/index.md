@@ -63,7 +63,7 @@ body_class: recommended
   
   <h2><a id="oralcare"></a>Грижа за зъбите</h2>
    <div class="product-item">
-    <div class="image-wrapper"><a href="https://realfood.bg/product/remineralizirasht-prah-za-izbelvane-na-zabi"><img src="/images/recommended/oralcare/shine.jpg" alt="Пудра за зъби"></a></div>
+    <div class="image-wrapper"><a href="https://realfood.bg/product/remineralizirasht-prah-za-izbelvane-na-zabi"><img src="/images/recommended/oralcare/shine.jpg" alt="реминерализиращ прах"></a></div>
     <h3><a href="https://realfood.bg/product/remineralizirasht-prah-za-izbelvane-na-zabi">Реминерализиращ прах</a></h3>
     <div class="product-item-description">Реминерализиращ прах за зъби. Използвайте 5% отстъпка с код BEZKARIES</div>
     <p><a class="button" href="https://bezkaries.com/blog/2020-04-11-хидроксиапатит/">Прочети повече</a>
