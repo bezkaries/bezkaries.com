@@ -158,15 +158,6 @@ body_class: recommended
   </div>
 
 
-  <div class="product-item">
-    <div class="image-wrapper"><a href="https://amzn.to/2Uzi98R"><img src="/images/recommended/supplements/fclo.jpg" alt="Колаген на прах"></a></div>
-    <h3><a href="https://amzn.to/2Uzi98R">Ферментирало рибено масло от треска</a></h3>
-    <div class="product-item-description">Пълноценен източник на витамин А, D и незаменими мастни киселини. За профилактика и лечение на зъбите.</div>
-    <p><a class="button" href="https://bezkaries.com/blog/2019-03-13-задължително-ли-е-рибеното-масло-за-здрави-зъби/">Прочети повече</a>
-    <a class="button" href="hhttps://lifestore.bg/blueiceroyalblendgreenpasture-120-kaps">Купи с отстъпка</a></p>
-  </div>
-
-
 
   <h2><a id="discounts"></a>Отстъпки</h2>
   <div class="product-item">
