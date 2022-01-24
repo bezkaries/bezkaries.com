@@ -1,3 +1,4 @@
+require 'nanoc/tasks'
 require 'tmpdir'
 
 task :default => [:test]
@@ -35,7 +36,7 @@ def commit_message(no_commit_msg = false)
   mesg.gsub(/'/, '') # Allow this to be handed off via -m '#{message}'
 end
 
-desc "Publish to http://developer.github.com"
+desc "Publish to http://bezkaries.com"
 task :publish, [:no_commit_msg] => [:clean, :remove_output_dir] do |t, args|
   mesg = commit_message(args[:no_commit_msg])
   sh "nanoc compile"
