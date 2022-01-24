@@ -1,4 +1,3 @@
-require 'nanoc/tasks'
 require 'tmpdir'
 
 task :default => [:test]
