@@ -6,7 +6,7 @@ published: true
 comments: true
 tags:
 --- 
-Здравей лято!
+**Здравей лято!**
 
 ![храни за лятото](/images/posts/vitaminsea.jpg)
 
