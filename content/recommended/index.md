@@ -102,6 +102,7 @@ body_class: recommended
     <a class="button" href="https://realfood.bg/cart/discount:bezkaries">Купи от realfood.bg</a></p>
   </div>
 
+
   <div class="product-item">
     <div class="image-wrapper"><a href="https://amzn.to/2HxRLsz"><img src="/images/recommended/oralcare/waterpik.jpg" alt="Зъбен душ Waterpik"></a></div>
     <h3><a href="https://amzn.to/2HxRLsz">Зъбен душ Waterpik</a></h3>
@@ -130,6 +131,13 @@ body_class: recommended
     <p><a class="button" href="http://bezcaries.com/детектори-на-зъбна-плака/">Виж повече</a></p>
   </div>
 
+ <div class="product-item">
+    <div class="image-wrapper"><a href="https://oralcare.bg/specialni-produkti/133-placaid-techen-plak-indikator-2-tona.html"><img src="/images/recommended/oralcare/placaid.jpg" alt="Индикатор за плака"></a></div>
+    <h3><a href="https://oralcare.bg/specialni-produkti/133-placaid-techen-plak-indikator-2-tona.html">Индикатор за зъбна плака</a></h3>
+    <div class="product-item-description">Оцветява плаката в розово и лилаво, за да се почисти по-лесно Използвайте 5% отстъпка с код BEZKARIES</div>
+    <p><a class="button" href="https://youtu.be/xw9Zr8CiG00">Видео</a>
+    <a class="button" href="https://oralcare.bg/specialni-produkti/133-placaid-techen-plak-indikator-2-tona.html">Купи от oralcare.bg</a></p>
+  </div>
 
 
 <h2><a id="supplements"></a>Хранителни добавки</h2>
