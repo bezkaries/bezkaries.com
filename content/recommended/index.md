@@ -132,9 +132,9 @@ body_class: recommended
   </div>
 
  <div class="product-item">
-    <div class="image-wrapper"><a href="https://oralcare.bg/specialni-produkti/133-placaid-techen-plak-indikator-2-tona.html"><img src="/images/recommended/oralcare/placaid.jpg" alt="Индикатор за плака"></a></div>
+    <div class="image-wrapper"><a href="https://oralcare.bg/specialni-produkti/133-placaid-techen-plak-indikator-2-tona.html"><img src="/images/recommended/hometests/placaid.jpg" alt="Индикатор за плака"></a></div>
     <h3><a href="https://oralcare.bg/specialni-produkti/133-placaid-techen-plak-indikator-2-tona.html">Индикатор за зъбна плака</a></h3>
-    <div class="product-item-description">Оцветява плаката в розово и лилаво, за да се почисти по-лесно Използвайте 5% отстъпка с код BEZKARIES</div>
+    <div class="product-item-description">Оцветява плаката в розово и лилаво, за да се почисти по-лесно. Използвайте 5% отстъпка с код BEZKARIES</div>
     <p><a class="button" href="https://youtu.be/xw9Zr8CiG00">Видео</a>
     <a class="button" href="https://oralcare.bg/specialni-produkti/133-placaid-techen-plak-indikator-2-tona.html">Купи от oralcare.bg</a></p>
   </div>
@@ -171,17 +171,16 @@ body_class: recommended
   <div class="product-item">
     <div class="image-wrapper"><a href=" https://realfood.bg/cart/discount:bezkaries"><img src="/images/recommended/discounts/realfood.jpg" alt="Код за 5% отстъпка BEZKARIES"></a></div>
     <h3><a href=" https://realfood.bg/cart/discount:bezkaries">Код за 5% отстъпка BEZKARIES</a></h3>
-    <div class="product-item-description">При пазаруване в магазин RealFood използвайте код BEZKARIES за 5% отстъпка за избрани продукти</div>
+    <div class="product-item-description">При пазаруване в магазин RealFood използвайте код BEZKARIES за 5% отстъпка</div>
     <p><a class="button" href="https://realfood.bg/cart/discount:bezkaries">Пазарувай</a></p>
   </div>
 
-  <div class="product-item">
-    <div class="image-wrapper"><a href="https://lifestore.bg"><img src="/images/recommended/discounts/lifestore.jpg" alt="Код за 5% отстъпка BEZKARIES"></a></div>
-    <h3><a href="https://lifestore.bg">Код за 5% отстъпка BEZKARIES</a></h3>
-    <div class="product-item-description">При пазаруване в магазин LifeStore използвайте код BEZKARIES за 5% отстъпка от всички продукти</div>
-    <p><a class="button" href="https://lifestore.bg">Пазарувай</a></p>
-  </div>
-
   
+  <div class="product-item">
+    <div class="image-wrapper"><a href="https://oralcare.bg"><img src="/images/recommended/discounts/oralcare.jpg" alt="Код за 5% отстъпка BEZKARIES"></a></div>
+    <h3><a href="https://oralcare.bg">Код за 5% отстъпка BEZKARIES</a></h3>
+    <div class="product-item-description">При пазаруване в магазин Oralcare.bg използвайте код BEZKARIES за 5% отстъпка</div>
+    <p><a class="button" href="https://oralcare.bg">Пазарувай</a></p>
+  </div>
 
 </div>
