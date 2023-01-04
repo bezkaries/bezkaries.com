@@ -162,7 +162,7 @@ body_class: recommended
     <h3><a href="https://amzn.to/2HwTkXt">Рибено масло от треска</a></h3>
     <div class="product-item-description">Пълноценен източник на витамин А, D и незаменими мастни киселини. За профилактика и лечение на зъбите.</div>
     <p><a class="button" href="https://bezkaries.com/blog/2019-03-13-задължително-ли-е-рибеното-масло-за-здрави-зъби/">Прочети повече</a>
-    <a class="button" href="https://realfood.bg/cart/discount:bezkaries">Купи от realfood.bg</a></p>
+    <a class="button" href="https://realfood.bg">Купи от realfood.bg</a></p>
   </div>
 
 
@@ -172,7 +172,7 @@ body_class: recommended
     <div class="image-wrapper"><a href=" https://realfood.bg/cart/discount:bezkaries"><img src="/images/recommended/discounts/realfood.jpg" alt="Код за 5% отстъпка BEZKARIES"></a></div>
     <h3><a href=" https://realfood.bg/cart/discount:bezkaries">Код за 5% отстъпка BEZKARIES</a></h3>
     <div class="product-item-description">При пазаруване в магазин RealFood използвайте код BEZKARIES за 5% отстъпка</div>
-    <p><a class="button" href="https://realfood.bg/cart/discount:bezkaries">Пазарувай</a></p>
+    <p><a class="button" href="https://realfood.bg">Пазарувай</a></p>
   </div>
 
   
