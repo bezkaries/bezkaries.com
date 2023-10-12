@@ -11,7 +11,7 @@ tags:
 - [В едно от тези изследвания](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2747330?utm_campaign=articlePDF&utm_medium=articlePDFlink&utm_source=articlePDF&utm_content=jamapediatrics.2019.2545), направено в Дания показва 50% по-малко дефекти в емайла при децата на майки, приемали високи дози от витамина, за разлика от децата на майките от контролната група които приемали стандартната препоръчана доза от 400IU и плацебо. Резултатите са измерени шест години след раждането на децата.
 
 
-![здравословно](/images/posts/zdravoslovno.jpg)
+![здравословно](/images/posts/pregnancyvitamind.jpg)
 
 
 <!-- more -->
