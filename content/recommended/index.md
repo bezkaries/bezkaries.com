@@ -89,7 +89,7 @@ body_class: recommended
    <div class="product-item">
     <div class="image-wrapper"><a href="https://realfood.bg/product/dr-hishams-adult-vital-teeth-serum"><img src="/images/recommended/oralcare/vitalserum.jpg" alt="Паста за зъби люта мента"></a></div>
     <h3><a href="https://realfood.bg/product/dr-hishams-adult-vital-teeth-serum">Паста за зъби люта мента</a></h3>
-    <div class="product-item-description">Паста за зъби с хидроксиапатит. Използвайте 5% отстъпка с код BEZKARIES</div>
+    <div class="product-item-description">Паста за зъби с хидроксиапатит. Използвайте 5% отстъпка с код BEZK5</div>
     <p><a class="button" href="https://bezkaries.com/blog/2020-04-11-хидроксиапатит/">Прочети повече</a>
     <a class="button" href="https://realfood.bg/cart/discount:bezkaries">Купи от realfood.bg</a></p>
   </div>
@@ -97,7 +97,7 @@ body_class: recommended
    <div class="product-item">
     <div class="image-wrapper"><a href="https://realfood.bg/product/dr-hishams-baby-teeth-serum"><img src="/images/recommended/oralcare/babyserum.jpg" alt="Паста за зъби мента"></a></div>
     <h3><a href="https://realfood.bg/product/dr-hishams-baby-teeth-serum">Паста за зъби мента</a></h3>
-    <div class="product-item-description">Паста за зъби с хидроксиапатит. Използвайте 5% отстъпка с код BEZKARIES</div>
+    <div class="product-item-description">Паста за зъби с хидроксиапатит. Използвайте 5% отстъпка с код BEZK5</div>
     <p><a class="button" href="https://bezkaries.com/blog/2020-04-11-хидроксиапатит/">Прочети повече</a>
     <a class="button" href="https://realfood.bg/cart/discount:bezkaries">Купи от realfood.bg</a></p>
   </div>
@@ -141,28 +141,45 @@ body_class: recommended
 
 
 <h2><a id="supplements"></a>Хранителни добавки</h2>
-  <div class="product-item">
-    <div class="image-wrapper"><a href="https://www.amazon.co.uk/gp/product/B001ELLBJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B001ELLBJS&linkCode=as2&tag=bezkariescom-21"><img src="/images/recommended/supplements/greatlakes1.jpg" alt="Колаген (желиращ)"></a></div>
-    <h3><a href="https://www.amazon.co.uk/gp/product/B001ELLBJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B001ELLBJS&linkCode=as2&tag=bezkariescom-21">Колаген (желиращ)</a></h3>
-    <div class="product-item-description">Подобрява здравето на венците. Винаги комбинирайте с естествен източник на витамин С (плодове и зеленчуци)</div>
-    <p><a class="button" href="https://bezkaries.com/blog/2016-09-12-полезни-бонбони/">Виж рецепта</a>
-    <a class="button" href="https://realfood.bg/product/beef-gelatin">Купи от realfood.bg</a></p>
+     <div class="product-item">
+    <div class="image-wrapper"><a href="https://bulgarbiotic.bg/product/probiotic-tablets-in-precisely-balanced-combination-copy"><img src="/images/recommended/supplements/bactologyprobiotic.jpg" alt="Дентал пробиотик Bactology"></a></div>
+    <h3><a href="https://bulgarbiotic.bg/product/probiotic-tablets-in-precisely-balanced-combination-copy">Орален пробиотик Bactology</a></h3>
+    <div class="product-item-description">Благоприятства бактериалният биофилм и създава защита срещу кариес. Използвайте код за 10% отстъпка BEZKARIES</div>
+    <p><a class="button" href="https://bezkaries.com/blog/2016-11-30-бактерии-и-плака/">Прочети повече</a>
+    <a class="button" href="https://bulgarbiotic.bg/product/probiotic-tablets-in-precisely-balanced-combination-copy">Купи с от bulgarbiotic.bg</a></p>
+  </div>
+
+   <div class="product-item">
+    <div class="image-wrapper"><a href="https://genesisprobiotic.com/produkt-kategoriya/dental/"><img src="/images/recommended/supplements/genesisdentalprobiotic.jpg" alt="Дентал пробиотик Genesis"></a></div>
+    <h3><a href="https://genesisprobiotic.com/produkt-kategoriya/dental/">Орален пробиотик Genesis</a></h3>
+    <div class="product-item-description">Благоприятства бактериалният биофилм и създава защита срещу кариес. Използвайте код за 10% отстъпка BEZKARIES</div>
+    <p><a class="button" href="https://bezkaries.com/blog/2016-11-30-бактерии-и-плака/">Прочети повече</a>
+    <a class="button" href="https://genesisprobiotic.com/produkt-kategoriya/dental/">Купи от Genesisprobiotics.com</a></p>
   </div>
 
   <div class="product-item">
-    <div class="image-wrapper"><a href="https://amzn.to/2EXhQ0Z"><img src="/images/recommended/supplements/greatlakes2.jpg" alt="Колаген на прах"></a></div>
-    <h3><a href="https://amzn.to/2EXhQ0Z">Колаген на прах</a></h3>
-    <div class="product-item-description">Подобрява здравето на венците. Винаги комбинирайте с естествен източник на витамин С (плодове и зеленчуци)</div>
-    <p><a class="button" href="https://bezkaries.com/blog/2017-03-12-пет-причини-да-приемаме-колаген/">Прочети повече</a>
-    <a class="button" href="https://realfood.bg/product/hidroliziran-kolagen">Купи от realfood.bg</a></p>
+    <div class="image-wrapper"><a href="https://remedium.bg/apakear-ora-lactin-oralen-probiotik-vit-c-30br-074804/p"><img src="/images/recommended/supplements/apacareprobiotic.jpg" alt="Дентал пробиотик Apacare"></a></div>
+    <h3><a href="https://remedium.bg/apakear-ora-lactin-oralen-probiotik-vit-c-30br-074804/p">Орален пробиотик Apacare</a></h3>
+    <div class="product-item-description">Благоприятства бактериалният биофилм и създава защита срещу кариес.</div>
+    <p><a class="button" href="https://bezkaries.com/blog/2016-11-30-бактерии-и-плака/">Прочети повече</a>
+    <a class="button" href="https://remedium.bg/apakear-ora-lactin-oralen-probiotik-vit-c-30br-074804/p">Търсете в аптеките</a></p>
   </div>
 
+
   <div class="product-item">
-    <div class="image-wrapper"><a href="https://amzn.to/2HwTkXt"><img src="/images/recommended/supplements/evclo.jpg" alt="Колаген на прах"></a></div>
-    <h3><a href="https://amzn.to/2HwTkXt">Рибено масло от треска</a></h3>
-    <div class="product-item-description">Пълноценен източник на витамин А, D и незаменими мастни киселини. За профилактика и лечение на зъбите.</div>
+    <div class="image-wrapper"><a href="https://realfood.bg/products/evclo"><img src="/images/recommended/supplements/evclo.jpg" alt="Рибено масло"></a></div>
+    <h3><a href="https://realfood.bg/products/evclo">Рибено масло от треска</a></h3>
+    <div class="product-item-description">Пълноценен източник на витамин А, D и незаменими мастни киселини. За профилактика и лечение на зъбите. Купете с 5% отстъпка с код BEZ5</div>
     <p><a class="button" href="https://bezkaries.com/blog/2019-03-13-задължително-ли-е-рибеното-масло-за-здрави-зъби/">Прочети повече</a>
-    <a class="button" href="https://realfood.bg">Купи от realfood.bg</a></p>
+    <a class="button" href="https://realfood.bg/products/evclo">Купи от realfood.bg</a></p>
+  </div>
+
+  <div class="product-item">
+    <div class="image-wrapper"><a href="https://realfood.bg/products/collagen-hydrolysate"><img src="/images/recommended/supplements/greatlakes2.jpg" alt="Колаген на прах"></a></div>
+    <h3><a href="https://realfood.bg/products/collagen-hydrolysate">Колаген на прах</a></h3>
+    <div class="product-item-description">Подобрява здравето на венците. Винаги комбинирайте с естествен източник на витамин С (плодове и зеленчуци). Купете с 5% отстъпка с код BEZ5</div>
+    <p><a class="button" href="https://bezkaries.com/blog/2017-03-12-пет-причини-да-приемаме-колаген/">Прочети повече</a>
+    <a class="button" href="https://realfood.bg/products/collagen-hydrolysate">Купи от realfood.bg</a></p>
   </div>
 
 
