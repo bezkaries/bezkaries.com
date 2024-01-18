@@ -144,7 +144,7 @@ body_class: recommended
      <div class="product-item">
     <div class="image-wrapper"><a href="https://bulgarbiotic.bg/product/probiotic-tablets-in-precisely-balanced-combination-copy"><img src="/images/recommended/supplements/bactologyprobiotic.jpg" alt="Дентал пробиотик Bactology"></a></div>
     <h3><a href="https://bulgarbiotic.bg/product/probiotic-tablets-in-precisely-balanced-combination-copy">Орален пробиотик Bactology</a></h3>
-    <div class="product-item-description">Благоприятства бактериалният биофилм и създава защита срещу кариес. Използвайте код за 10% отстъпка BEZKARIES</div>
+    <div class="product-item-description">Благоприятства бактериалният биофилм и създава защита срещу кариес. Използвайте код за 10% отстъпка BEZKARIES10</div>
     <p><a class="button" href="https://bezkaries.com/blog/2016-11-30-бактерии-и-плака/">Прочети повече</a>
     <a class="button" href="https://bulgarbiotic.bg/product/probiotic-tablets-in-precisely-balanced-combination-copy">Купи с от bulgarbiotic.bg</a></p>
   </div>
@@ -209,8 +209,8 @@ body_class: recommended
 
   <div class="product-item">
     <div class="image-wrapper"><a href="https://bulgarbiotic.bg"><img src="/images/recommended/discounts/bulgarbiotic.jpg" alt="Код за 10% отстъпка BEZKARIES"></a></div>
-    <h3><a href="https://bulgarbiotic.bg">Код за 10% отстъпка BEZKARIES</a></h3>
-    <div class="product-item-description">При пазаруване в магазин GENESIS използвайте код BEZKARIES за 10% отстъпка</div>
+    <h3><a href="https://bulgarbiotic.bg">Код за 10% отстъпка BEZKARIES10</a></h3>
+    <div class="product-item-description">При пазаруване в магазин GENESIS използвайте код BEZKARIES10 за 10% отстъпка</div>
     <p><a class="button" href="https://bulgarbiotic.bg">Пазарувай</a></p>
   </div>
 
