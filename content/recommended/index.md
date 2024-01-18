@@ -185,9 +185,16 @@ body_class: recommended
 
   <div class="product-item">
     <div class="image-wrapper"><a href="https://genesisprobiotic.com"><img src="/images/recommended/discounts/genesis.jpg" alt="Код за 10% отстъпка BEZKARIES"></a></div>
-    <h3><a href="https://oralcare.bg">Код за 10% отстъпка BEZKARIES</a></h3>
+    <h3><a href="https://genesisprobiotic.com">Код за 10% отстъпка BEZKARIES</a></h3>
     <div class="product-item-description">При пазаруване в магазин GENESIS използвайте код BEZKARIES за 10% отстъпка</div>
     <p><a class="button" href="https://genesisprobiotic.com">Пазарувай</a></p>
+  </div>
+
+  <div class="product-item">
+    <div class="image-wrapper"><a href="https://bulgarbiotic.bg"><img src="/images/recommended/discounts/bulgarbiotic.jpg" alt="Код за 10% отстъпка BEZKARIES"></a></div>
+    <h3><a href="https://bulgarbiotic.bg">Код за 10% отстъпка BEZKARIES</a></h3>
+    <div class="product-item-description">При пазаруване в магазин GENESIS използвайте код BEZKARIES за 10% отстъпка</div>
+    <p><a class="button" href="https://bulgarbiotic.bg">Пазарувай</a></p>
   </div>
 
 </div>
