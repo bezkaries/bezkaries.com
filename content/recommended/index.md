@@ -169,7 +169,7 @@ body_class: recommended
   <div class="product-item">
     <div class="image-wrapper"><a href="https://realfood.bg/products/evclo"><img src="/images/recommended/supplements/evclo.jpg" alt="Рибено масло"></a></div>
     <h3><a href="https://realfood.bg/products/evclo">Рибено масло от треска</a></h3>
-    <div class="product-item-description">Пълноценен източник на витамин А, D и незаменими мастни киселини. За профилактика и лечение на зъбите. Купете с 5% отстъпка с код BEZ5</div>
+    <div class="product-item-description">Пълноценен източник на витамин А, D и Омега 3. За профилактика и лечение на зъбите. Купете с 5% отстъпка с код BEZ5</div>
     <p><a class="button" href="https://bezkaries.com/blog/2019-03-13-задължително-ли-е-рибеното-масло-за-здрави-зъби/">Прочети повече</a>
     <a class="button" href="https://realfood.bg/products/evclo">Купи от realfood.bg</a></p>
   </div>
@@ -177,7 +177,7 @@ body_class: recommended
   <div class="product-item">
     <div class="image-wrapper"><a href="https://realfood.bg/products/collagen-hydrolysate"><img src="/images/recommended/supplements/greatlakes2.jpg" alt="Колаген на прах"></a></div>
     <h3><a href="https://realfood.bg/products/collagen-hydrolysate">Колаген на прах</a></h3>
-    <div class="product-item-description">Подобрява здравето на венците. Винаги комбинирайте с естествен източник на витамин С (плодове и зеленчуци). Купете с 5% отстъпка с код BEZ5</div>
+    <div class="product-item-description">Подобрява здравето на венците. Комбинирайте с натурален витамин С (плодове и зеленчуци). Купете с 5% отстъпка с код BEZ5</div>
     <p><a class="button" href="https://bezkaries.com/blog/2017-03-12-пет-причини-да-приемаме-колаген/">Прочети повече</a>
     <a class="button" href="https://realfood.bg/products/collagen-hydrolysate">Купи от realfood.bg</a></p>
   </div>
