@@ -79,11 +79,11 @@ body_class: recommended
   </div>
 
    <div class="product-item">
-    <div class="image-wrapper"><a href="https://realfood.bg/product/dr-hishams-alkaline-mouth-rinse-500ml"><img src="/images/recommended/oralcare/mouthrinse.jpg" alt="Алкализираща вода за уста"></a></div>
-    <h3><a href="https://realfood.bg/product/dr-hishams-alkaline-mouth-rinse-500ml">Алкализираща вода за уста</a></h3>
-    <div class="product-item-description">Балансира и подхранва на слюнката за по-здрави зъби и венци. Използвайте 5% отстъпка с код BEZKARIES</div>
+    <div class="image-wrapper"><a href="https://realfood.bg/products/voda-za-usta-dr-hishams-500-ml"><img src="/images/recommended/oralcare/mouthrinse.jpg" alt="Алкализираща вода за уста"></a></div>
+    <h3><a href="https://realfood.bg/products/voda-za-usta-dr-hishams-500-ml">Алкализираща вода за уста</a></h3>
+    <div class="product-item-description">Балансира и подхранва слюнката за по-здрави зъби и венци. Използвайте 5% отстъпка с код BEZKARIES</div>
     <p><a class="button" href="https://bezkaries.com/blog/2020-04-11-хидроксиапатит/">Прочети повече</a>
-    <a class="button" href="https://realfood.bg/cart/discount:bezkaries">Купи от realfood.bg</a></p>
+    <a class="button" href="https://realfood.bg/products/voda-za-usta-dr-hishams-500-ml">Купи от realfood.bg</a></p>
   </div>
 
    <div class="product-item">
