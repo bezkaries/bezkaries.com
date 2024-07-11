@@ -169,7 +169,7 @@ body_class: recommended
   <div class="product-item">
     <div class="image-wrapper"><a href="https://realfood.bg/products/evclo"><img src="/images/recommended/supplements/evclo.jpg" alt="Рибено масло"></a></div>
     <h3><a href="https://realfood.bg/products/evclo">Рибено масло от треска</a></h3>
-    <div class="product-item-description">Пълноценен източник на витамин А, D и Омега 3. За профилактика и лечение на зъбите. Купете с 5% отстъпка с код BEZ5</div>
+    <div class="product-item-description">Пълноценен източник на витамин А, D и Омега 3. За профилактика и лечение на зъбите. Купете с 5% отстъпка с код RealBezKaries</div>
     <p><a class="button" href="https://bezkaries.com/blog/2019-03-13-задължително-ли-е-рибеното-масло-за-здрави-зъби/">Прочети повече</a>
     <a class="button" href="https://realfood.bg/products/evclo">Купи от realfood.bg</a></p>
   </div>
@@ -177,7 +177,7 @@ body_class: recommended
   <div class="product-item">
     <div class="image-wrapper"><a href="https://realfood.bg/products/collagen-hydrolysate"><img src="/images/recommended/supplements/greatlakes2.jpg" alt="Колаген на прах"></a></div>
     <h3><a href="https://realfood.bg/products/collagen-hydrolysate">Колаген на прах</a></h3>
-    <div class="product-item-description">Подобрява здравето на венците. Комбинирайте с натурален витамин С (плодове и зеленчуци). Купете с 5% отстъпка с код BEZ5</div>
+    <div class="product-item-description">Подобрява здравето на венците. Комбинирайте с натурален витамин С (плодове и зеленчуци). Купете с 5% отстъпка с код RealBezKaries</div>
     <p><a class="button" href="https://bezkaries.com/blog/2017-03-12-пет-причини-да-приемаме-колаген/">Прочети повече</a>
     <a class="button" href="https://realfood.bg/products/collagen-hydrolysate">Купи от realfood.bg</a></p>
   </div>
@@ -187,7 +187,7 @@ body_class: recommended
   <h2><a id="discounts"></a>Отстъпки</h2>
   <div class="product-item">
     <div class="image-wrapper"><a href=" https://realfood.bg/"><img src="/images/recommended/discounts/realfood.jpg" alt="Код за 5% отстъпка BEZK5"></a></div>
-    <h3><a href=" https://realfood.bg/">Код за 5% отстъпка BEZ5</a></h3>
+    <h3><a href=" https://realfood.bg/">Код за 5% отстъпка RealBezKaries</a></h3>
     <div class="product-item-description">При пазаруване в магазин RealFood.bg използвайте код BEZ5 за 5% отстъпка</div>
     <p><a class="button" href="https://realfood.bg">Пазарувай</a></p>
   </div>
