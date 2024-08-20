@@ -175,11 +175,11 @@ body_class: recommended
   </div>
 
   <div class="product-item">
-    <div class="image-wrapper"><a href="https://realfood.bg/products/collagen-hydrolysate"><img src="/images/recommended/supplements/greatlakes2.jpg" alt="Колаген на прах"></a></div>
-    <h3><a href="https://realfood.bg/products/collagen-hydrolysate">Колаген на прах</a></h3>
+    <div class="image-wrapper"><a href="https://realfood.bg/products/hidroliziran-kolagen-realfood"><img src="/images/recommended/supplements/collagen.jpg" alt="Колаген на прах"></a></div>
+    <h3><a href="https://realfood.bg/products/hidroliziran-kolagen-realfood">Колаген на прах</a></h3>
     <div class="product-item-description">Подобрява здравето на венците. Комбинирайте с натурален витамин С. Купете с 5% отстъпка с код RealBezKaries</div>
     <p><a class="button" href="https://bezkaries.com/blog/2017-03-12-пет-причини-да-приемаме-колаген/">Прочети повече</a>
-    <a class="button" href="https://realfood.bg/products/collagen-hydrolysate">Купи от realfood.bg</a></p>
+    <a class="button" href="https://realfood.bg/products/hidroliziran-kolagen-realfood">Купи от realfood.bg</a></p>
   </div>
 
   <div class="product-item">
