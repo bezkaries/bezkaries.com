@@ -184,7 +184,7 @@ body_class: recommended
 
   <div class="product-item">
     <div class="image-wrapper"><a href="https://revita.bg/shop/govezhdi-kosten-bulyon-250-g-prakh"><img src="/images/recommended/supplements/bonebroth.jpg" alt="Костен бульон на прах"></a></div>
-    <h3><a href="https://revita.bg/shop/govezhdi-kosten-bulyon-250-g-prakh">Колаген на прах</a></h3>
+    <h3><a href="https://revita.bg/shop/govezhdi-kosten-bulyon-250-g-prakh">Костен бульон на прах</a></h3>
     <div class="product-item-description">Пълноценен източник на минерали Калций, Магнезий, Фосфор. Купете с 10% отстъпка с код BEZKARIES</div>
     <p><a class="button" href="https://bezkaries.com/blog/2014-02-27-храни-за-здрави-зъби-част-1/">Прочети повече</a>
     <a class="button" href="https://revita.bg/shop/govezhdi-kosten-bulyon-250-g-prakh">Купи от revita.bg</a></p>
