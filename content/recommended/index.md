@@ -196,7 +196,7 @@ body_class: recommended
   <div class="product-item">
     <div class="image-wrapper"><a href=" https://realfood.bg/"><img src="/images/recommended/discounts/realfood.jpg" alt="Код за 5% отстъпка BEZK5"></a></div>
     <h3><a href=" https://realfood.bg/">Код за 5% отстъпка RealBezKaries</a></h3>
-    <div class="product-item-description">При пазаруване в магазин RealFood.bg използвайте код BEZ5 за 5% отстъпка</div>
+    <div class="product-item-description">При пазаруване в магазин RealFood.bg използвайте код REALBEZKARIES за 5% отстъпка</div>
     <p><a class="button" href="https://realfood.bg">Пазарувай</a></p>
   </div>
 
