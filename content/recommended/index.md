@@ -146,7 +146,7 @@ body_class: recommended
     <h3><a href="https://bulgarbiotic.bg/product/probiotic-tablets-in-precisely-balanced-combination-copy">Орален пробиотик Bactology</a></h3>
     <div class="product-item-description">Благоприятства бактериалният биофилм и създава защита срещу кариес. Използвайте код за 10% отстъпка BEZKARIES10</div>
     <p><a class="button" href="https://bezkaries.com/blog/2016-11-30-бактерии-и-плака/">Прочети повече</a>
-    <a class="button" href="https://bulgarbiotic.bg/product/probiotic-tablets-in-precisely-balanced-combination-copy">Купи с от bulgarbiotic.bg</a></p>
+    <a class="button" href="https://bulgarbiotic.bg/product/probiotic-tablets-in-precisely-balanced-combination-copy">Към магазина</a></p>
   </div>
 
    <div class="product-item">
@@ -154,7 +154,7 @@ body_class: recommended
     <h3><a href="https://genesisprobiotic.com/produkt-kategoriya/dental/">Орален пробиотик Genesis</a></h3>
     <div class="product-item-description">Благоприятства бактериалният биофилм и създава защита срещу кариес. Използвайте код за 10% отстъпка BEZKARIES</div>
     <p><a class="button" href="https://bezkaries.com/blog/2016-11-30-бактерии-и-плака/">Прочети повече</a>
-    <a class="button" href="https://genesisprobiotic.com/produkt-kategoriya/dental/">Купи от Genesisprobiotics.com</a></p>
+    <a class="button" href="https://genesisprobiotic.com/produkt-kategoriya/dental/">Към магазина</a></p>
   </div>
 
   <div class="product-item">
@@ -162,7 +162,7 @@ body_class: recommended
     <h3><a href="https://remedium.bg/apakear-ora-lactin-oralen-probiotik-vit-c-30br-074804/p">Орален пробиотик Apacare</a></h3>
     <div class="product-item-description">Благоприятства бактериалният биофилм и създава защита срещу кариес.</div>
     <p><a class="button" href="https://bezkaries.com/blog/2016-11-30-бактерии-и-плака/">Прочети повече</a>
-    <a class="button" href="https://remedium.bg/apakear-ora-lactin-oralen-probiotik-vit-c-30br-074804/p">Търсете в аптеките</a></p>
+    <a class="button" href="https://remedium.bg/apakear-ora-lactin-oralen-probiotik-vit-c-30br-074804/p">В аптеките</a></p>
   </div>
 
 
@@ -180,6 +180,14 @@ body_class: recommended
     <div class="product-item-description">Подобрява здравето на венците. Комбинирайте с натурален витамин С (плодове и зеленчуци). Купете с 5% отстъпка с код RealBezKaries</div>
     <p><a class="button" href="https://bezkaries.com/blog/2017-03-12-пет-причини-да-приемаме-колаген/">Прочети повече</a>
     <a class="button" href="https://realfood.bg/products/collagen-hydrolysate">Купи от realfood.bg</a></p>
+  </div>
+
+  <div class="product-item">
+    <div class="image-wrapper"><a href="https://revita.bg/shop/govezhdi-kosten-bulyon-250-g-prakh"><img src="/images/recommended/supplements/bonebroth.jpg" alt="Костен бульон на прах"></a></div>
+    <h3><a href="https://revita.bg/shop/govezhdi-kosten-bulyon-250-g-prakh">Колаген на прах</a></h3>
+    <div class="product-item-description">Пълноценен източник на минерали Калций, Магнезий, Фосфор. Купете с 10% отстъпка с код BEZKARIES</div>
+    <p><a class="button" href="https://bezkaries.com/blog/2014-02-27-храни-за-здрави-зъби-част-1/">Прочети повече</a>
+    <a class="button" href="https://revita.bg/shop/govezhdi-kosten-bulyon-250-g-prakh">Купи от revita.bg</a></p>
   </div>
 
 
@@ -210,8 +218,16 @@ body_class: recommended
   <div class="product-item">
     <div class="image-wrapper"><a href="https://bulgarbiotic.bg"><img src="/images/recommended/discounts/bulgarbiotic.jpg" alt="Код за 10% отстъпка BEZKARIES"></a></div>
     <h3><a href="https://bulgarbiotic.bg">Код за 10% отстъпка BEZKARIES10</a></h3>
-    <div class="product-item-description">При пазаруване в магазин GENESIS използвайте код BEZKARIES10 за 10% отстъпка</div>
+    <div class="product-item-description">При пазаруване в магазин BULGARBIOTIC използвайте код BEZKARIES10 за 10% отстъпка</div>
     <p><a class="button" href="https://bulgarbiotic.bg">Пазарувай</a></p>
   </div>
+
+<div class="product-item">
+    <div class="image-wrapper"><a href="https://revita.bg"><img src="/images/recommended/discounts/revitabg.jpg" alt="Код за 10% отстъпка BEZKARIES"></a></div>
+    <h3><a href="https://bulgarbiotic.bg">Код за 10% отстъпка BEZKARIES</a></h3>
+    <div class="product-item-description">При пазаруване в магазин Revita.bg използвайте код BEZKARIES за 10% отстъпка</div>
+    <p><a class="button" href="https://revita.bg">Пазарувай</a></p>
+  </div>
+
 
 </div>
