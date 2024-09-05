@@ -8,11 +8,11 @@ body_class: recommended
   <ul class="nav-flex">
     <li><a href="#books">Книги</a></li>
     <li><a href="#education">Обучителни материали</a></li>
+     <li><a href="#discounts">Отстъпки</a></li>
     <li><a href="#oralcare">Грижа за зъбите</a></li>
     <li><a href="#whitening">Избелване</a></li>
     <li><a href="#hometests">Домашни тестове</a></li>
     <li><a href="#supplements">Хранителни добавки</a></li>
-    <li><a href="#discounts">Отстъпки</a></li>
     
 
    
