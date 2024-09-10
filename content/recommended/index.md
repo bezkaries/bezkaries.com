@@ -188,7 +188,7 @@ body_class: recommended
   <div class="product-item">
     <div class="image-wrapper"><a href="https://oralcare.bg/nachalo/328-apacare-oralactin-орален-пробиотик-30-сашета.html"><img src="/images/recommended/supplements/apacareprobiotic.jpg" alt="Дентал пробиотик Apacare"></a></div>
     <h3><a href="https://oralcare.bg/nachalo/328-apacare-oralactin-орален-пробиотик-30-сашета.html">Орален пробиотик Apacare</a></h3>
-    <div class="product-item-description">Благоприятства бактериалният биофилм и създава защита срещу кариес.</div>
+    <div class="product-item-description">Благоприятства бактериалният биофилм и създава защита срещу кариес. Използвайте код за 10% отстъпка BEZKARIES</div>
     <p><a class="button" href="https://bezkaries.com/blog/2016-11-30-бактерии-и-плака/">Прочети повече</a>
     <a class="button" href="https://oralcare.bg/nachalo/328-apacare-oralactin-орален-пробиотик-30-сашета.html">Купи от oralcare.bg</a></p>
   </div>
