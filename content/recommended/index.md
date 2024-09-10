@@ -186,11 +186,11 @@ body_class: recommended
   </div>
 
   <div class="product-item">
-    <div class="image-wrapper"><a href="https://remedium.bg/apakear-ora-lactin-oralen-probiotik-vit-c-30br-074804/p"><img src="/images/recommended/supplements/apacareprobiotic.jpg" alt="Дентал пробиотик Apacare"></a></div>
-    <h3><a href="https://remedium.bg/apakear-ora-lactin-oralen-probiotik-vit-c-30br-074804/p">Орален пробиотик Apacare</a></h3>
+    <div class="image-wrapper"><a href="https://oralcare.bg/nachalo/328-apacare-oralactin-орален-пробиотик-30-сашета.html"><img src="/images/recommended/supplements/apacareprobiotic.jpg" alt="Дентал пробиотик Apacare"></a></div>
+    <h3><a href="https://oralcare.bg/nachalo/328-apacare-oralactin-орален-пробиотик-30-сашета.html">Орален пробиотик Apacare</a></h3>
     <div class="product-item-description">Благоприятства бактериалният биофилм и създава защита срещу кариес.</div>
     <p><a class="button" href="https://bezkaries.com/blog/2016-11-30-бактерии-и-плака/">Прочети повече</a>
-    <a class="button" href="https://remedium.bg/apakear-ora-lactin-oralen-probiotik-vit-c-30br-074804/p">В аптеките</a></p>
+    <a class="button" href="https://oralcare.bg/nachalo/328-apacare-oralactin-орален-пробиотик-30-сашета.html">Купи от oralcare.bg</a></p>
   </div>
 
 
