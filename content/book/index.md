@@ -21,7 +21,7 @@ layout: overview
     </div>
     <div class="content-wrapper">
       <div class="content">
-        <img src="/images/book/cover.png"{:width="350px"} alt="корица" />
+        <img src="/images/book/cover.png" alt="корица" />
         <h3>Може би се питате дали тази книга е за вас?</h3>
         <ul>
           <li>ДА, ако сте родител на дете 0-6г</li>
