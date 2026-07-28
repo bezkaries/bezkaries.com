@@ -22,6 +22,13 @@ body_class: recommended
 <div class="product-container">
   <h2><a id="books"></a>Книги</h2>
   <div class="product-item">
+    <div class="image-wrapper"><a href="https://kniga2.bezkaries.com"><img src="/images/recommended/books/cover3.jpg" alt="Най-красивото лице на твоето дете"></a></div>
+    <h3><a href="https://kniga2.bezkaries.com">Най-красивото лице на твоето дете</a></h3>
+    <div class="product-item-description">Всичко най-важно за развитието на зъбите и захапката</div>
+    <p><a class="button" href="https://kniga2.bezkaries.com">Поръчай</a></p>
+  </div>
+
+  <div class="product-item">
     <div class="image-wrapper"><a href="https://bezkaries.com/blog/2019-08-02-за-невидимата-връзка-на-зъбите-с-здравето/"><img src="/images/recommended/books/bezkaries.jpg" alt="БЕЗ КАРИЕС"></a></div>
     <h3><a href="https://bezkaries.com/blog/2019-08-02-за-невидимата-връзка-на-зъбите-с-здравето/">БЕЗ КАРИЕС</a></h3>
     <div class="product-item-description">За невидимата връзка между зъбите и цялостното здраве.</div>
