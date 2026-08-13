@@ -257,8 +257,7 @@ body_class: recommended
     <a class="button" href="https://revita.bg/shop/govezhdi-kosten-bulyon-250-g-prakh">Купи от revita.bg</a></p>
   </div>
 
-  </div>
-    <div class="product-item">
+  <div class="product-item">
     <div class="image-wrapper"><a href="https://iherb.co/kBQaYGCn"><img src="/images/recommended/supplements/traceminerals.jpg" alt="Минерални капки"></a></div>
     <h3><a href="https://iherb.co/kBQaYGCn">Капки с минерали и микроелементи</a></h3>
     <div class="product-item-description">Хранителна добавка с минерали, микроелементи и Бор. Борът подпомага минерализацията и задържането на Калция в костите. </div>
@@ -266,7 +265,6 @@ body_class: recommended
     <a class="button" href="https://iherb.co/kBQaYGCn">Купи от iherb.com</a></p>
   </div>
 
- </div>
   <div class="product-item">
     <div class="image-wrapper"><a href="https://iherb.co/gbLB2wKK"><img src="/images/recommended/supplements/magnesiumbath.jpg" alt="Магнезиеви соли"></a></div>
     <h3><a href="https://iherb.co/gbLB2wKK">Магнезиеви соли за вана</a></h3>
