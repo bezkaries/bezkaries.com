@@ -266,6 +266,7 @@ body_class: recommended
     <a class="button" href="https://iherb.co/kBQaYGCn">Купи от iherb.com</a></p>
   </div>
 
+ </div>
   <div class="product-item">
     <div class="image-wrapper"><a href="https://iherb.co/gbLB2wKK"><img src="/images/recommended/supplements/magnesiumbath.jpg" alt="Магнезиеви соли"></a></div>
     <h3><a href="https://iherb.co/gbLB2wKK">Магнезиеви соли за вана</a></h3>
