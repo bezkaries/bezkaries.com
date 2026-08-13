@@ -106,35 +106,35 @@ body_class: recommended
   <h2><a id="oralcare"></a>Грижа за зъбите</h2>
 
    <div class="product-item">
-    <div class="image-wrapper"><a href="https://realfood.bg/products/organichen-dentalen-detoks-izbelvashta-pudra-dr-hishams-60-g"><img src="/images/recommended/oralcare/dentaldetox.jpg" alt="Пудра за зъби"></a></div>
-    <h3><a href="https://realfood.bg/products/organichen-dentalen-detoks-izbelvashta-pudra-dr-hishams-60-g">Пудра за зъби</a></h3>
-    <div class="product-item-description">Реминерализираща и избелваща пудра. Използвайте 5% отстъпка с код REALBEZKARIES</div>
-    <p><a class="button" href="https://bezkaries.com/blog/2020-04-11-хидроксиапатит/">Прочети повече</a>
-    <a class="button" href="https://realfood.bg/products/organichen-dentalen-detoks-izbelvashta-pudra-dr-hishams-60-g">Купи от realfood.bg</a></p>
+    <div class="image-wrapper"><a href="https://iherb.co/eRt8RJHc"><img src="/images/recommended/oralcare/strawberrytoothpaste.jpg" alt="Паста за зъби Ягода"></a></div>
+    <h3><a href="https://iherb.co/eRt8RJHc">Паста за зъби Ягода и Диня</a></h3>
+    <div class="product-item-description">Ежедневна паста за зъби с Ксилитол и вкус на ягода и диня</div>
+    <p><a class="button" href="https://bezkaries.com/blog/2016-03-02-флуор-ксилитол/">Прочети повече</a>
+    <a class="button" href="https://iherb.co/eRt8RJHc">Купи от iherb.com</a></p>
   </div>
 
    <div class="product-item">
-    <div class="image-wrapper"><a href="https://realfood.bg/products/voda-za-usta-dr-hishams-500-ml"><img src="/images/recommended/oralcare/mouthrinse.jpg" alt="Алкализираща вода за уста"></a></div>
-    <h3><a href="https://realfood.bg/products/voda-za-usta-dr-hishams-500-ml">Алкализираща вода за уста</a></h3>
-    <div class="product-item-description">Балансира и подхранва слюнката за по-здрави зъби и венци. Използвайте 5% отстъпка с код REALBEZKARIES</div>
+    <div class="image-wrapper"><a href="https://iherb.co/2BqLr796"><img src="/images/recommended/oralcare/nanovanilla.jpg" alt="Паста за зъби Ванилия"></a></div>
+    <h3><a href="https://iherb.co/2BqLr796">Паста за зъби Ванилия и Портокал</a></h3>
+    <div class="product-item-description">Реминерализираща паста за зъби с nano-хидроксиапатит с ванилия и портокал</div>
     <p><a class="button" href="https://bezkaries.com/blog/2020-04-11-хидроксиапатит/">Прочети повече</a>
-    <a class="button" href="https://realfood.bg/products/voda-za-usta-dr-hishams-500-ml">Купи от realfood.bg</a></p>
+    <a class="button" href="https://iherb.co/2BqLr796">Купи от iherb.com</a></p>
   </div>
 
    <div class="product-item">
-    <div class="image-wrapper"><a href="https://realfood.bg/products/dr-hishams-vitaldr-hishams-serum-za-zabi-i-venci-vital"><img src="/images/recommended/oralcare/vitalserum.jpg" alt="Паста за зъби люта мента"></a></div>
-    <h3><a href="https://realfood.bg/products/dr-hishams-vitaldr-hishams-serum-za-zabi-i-venci-vital">Паста за зъби люта мента</a></h3>
-    <div class="product-item-description">Паста за зъби с хидроксиапатит. Използвайте 5% отстъпка с код REALBEZKARIES</div>
+    <div class="image-wrapper"><a href="https://iherb.co/1TyzLW4L"><img src="/images/recommended/oralcare/nanomint.jpg" alt="Паста за зъби мента"></a></div>
+    <h3><a href="https://iherb.co/1TyzLW4L">Паста за зъби Мента</a></h3>
+    <div class="product-item-description">Паста за зъби с nano-хидроксиапатит с вкус нежна мента</div>
     <p><a class="button" href="https://bezkaries.com/blog/2020-04-11-хидроксиапатит/">Прочети повече</a>
-    <a class="button" href="https://realfood.bg/products/dr-hishams-vitaldr-hishams-serum-za-zabi-i-venci-vital">Купи от realfood.bg</a></p>
+    <a class="button" href="https://iherb.co/1TyzLW4L">Купи от iherb.com</a></p>
   </div>
 
    <div class="product-item">
-    <div class="image-wrapper"><a href="https://realfood.bg/products/detski-serum-za-oralna-higiena-dr-hishams-baby-teeth"><img src="/images/recommended/oralcare/babyserum.jpg" alt="Паста за зъби мента"></a></div>
-    <h3><a href="https://realfood.bg/products/detski-serum-za-oralna-higiena-dr-hishams-baby-teeth">Паста за зъби мента</a></h3>
-    <div class="product-item-description">Паста за зъби с хидроксиапатит. Използвайте 5% отстъпка с код REALBEZKARIES</div>
+    <div class="image-wrapper"><a href="https://dentazy.bg?sca_ref=11762652.4QkLYqxp8Hj0qDib"><img src="/images/recommended/oralcare/dentazygel.jpg" alt="Реминерализиращ гел"></a></div>
+    <h3><a href="https://dentazy.bg?sca_ref=11762652.4QkLYqxp8Hj0qDib">Реминерализиращ нощен гел  Дентази</a></h3>
+    <div class="product-item-description">Паста за зъби с micro-хидроксиапатит. Използвайте 5% отстъпка с код BEZKARIES</div>
     <p><a class="button" href="https://bezkaries.com/blog/2020-04-11-хидроксиапатит/">Прочети повече</a>
-    <a class="button" href="https://realfood.bg/products/detski-serum-za-oralna-higiena-dr-hishams-baby-teeth">Купи от realfood.bg</a></p>
+    <a class="button" href="https://dentazy.bg?sca_ref=11762652.4QkLYqxp8Hj0qDib">Купи от dentazy.bg</a></p>
   </div>
 
 
@@ -144,6 +144,14 @@ body_class: recommended
     <div class="product-item-description">Почиства труднодостъпни за четката места - между зъбите, около венците, брекети, коронки</div>
     <p><a class="button" href="https://youtu.be/0jURRwxOooU">Виж видео</a>
     <a class="button" href="https://amzn.to/2HxRLsz">Купи от amazon</a></p>
+  </div>
+
+   <div class="product-item">
+    <div class="image-wrapper"><a href="https://iherb.co/p6ki7Ldc"><img src="/images/recommended/oralcare/xylitolnasaldrops.jpg" alt="Назална хигиена"></a></div>
+    <h3><a href="https://iherb.co/p6ki7Ldc">Капки за нос с ксилитол</a></h3>
+    <div class="product-item-description">Назалната хигиена осигурява спокойно носно дишане, което е основен фактор за качеството и количеството на слюнката</div>
+    <p><a class="button" href="https://www.instagram.com/p/CZsJGprI4-u/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Прочетете повече</a>
+    <a class="button" href="https://iherb.co/p6ki7Ldc">Купи от iherb.com</a></p>
   </div>
 
 
@@ -160,10 +168,10 @@ body_class: recommended
 
   <h2><a id="hometests"></a>Домашни тестове</h2>
   <div class="product-item">
-    <div class="image-wrapper"><a href="http://bezcaries.com/детектори-на-зъбна-плака/"><img src="/images/recommended/hometests/plaquedetector.jpg" alt="Детектор за бактериална плака"></a></div>
-    <h3><a href="http://bezcaries.com/детектори-на-зъбна-плака/">Детектор за бактериална плака</a></h3>
-    <div class="product-item-description">Специалната светлина оцветява чистите зъби в зелено, а бактериите в розово.</div>
-    <p><a class="button" href="http://bezcaries.com/детектори-на-зъбна-плака/">Виж повече</a></p>
+    <div class="image-wrapper"><a href="https://dentazy.bg?sca_ref=11762652.4QkLYqxp8Hj0qDib"><img src="/images/recommended/hometests/plaquedetector.jpg" alt="Детектор за бактериална плака"></a></div>
+    <h3><a href="https://dentazy.bg?sca_ref=11762652.4QkLYqxp8Hj0qDib">Детектор за бактериална плака</a></h3>
+    <div class="product-item-description">Специалната светлина оцветява чистите зъби в зелено, а бактериите в розово. Използвайте 5% отстъпка с код BEZKARIES</div>
+    <p><a class="button" href="">Купи от dentazy.bg</a></p>
   </div>
 
  <div class="product-item">
@@ -210,6 +218,22 @@ body_class: recommended
   </div>
 
   <div class="product-item">
+    <div class="image-wrapper"><a href="https://iherb.co/vRzJVWsX"><img src="/images/recommended/supplements/babydha.jpg" alt="Рибено масло за бебета"></a></div>
+    <h3><a href="https://iherb.co/vRzJVWsX">Рибено масло за бебета</a></h3>
+    <div class="product-item-description">Хранителна добавка с естетсвен витамин Д и Омега-3</div>
+    <p><a class="button" href="https://bezkaries.com/blog/2016-07-20-ужасното-рибено-масло/">Прочети повече</a>
+    <a class="button" href="https://iherb.co/vRzJVWsX">Купи от iherb.com</a></p>
+  </div>
+
+  <div class="product-item">
+    <div class="image-wrapper"><a href="https://iherb.co/7EyyHqqe"><img src="/images/recommended/supplements/lemonfishoil.jpg" alt="Рибено масло с лимон"></a></div>
+    <h3><a href="https://iherb.co/7EyyHqqe">Капсули рибено масло</a></h3>
+    <div class="product-item-description">Рибено масло на капсули, с вкус на лимон; за хора които не харесват "рибен вкус"</div>
+    <p><a class="button" href="https://bezkaries.com/blog/2019-03-13-задължително-ли-е-рибеното-масло-за-здрави-зъби/">Прочети повече</a>
+    <a class="button" href="https://iherb.co/7EyyHqqe">Купи от iherb.com</a></p>
+  </div>
+
+  <div class="product-item">
     <div class="image-wrapper"><a href="https://realfood.bg/products/hidroliziran-kolagen-realfood"><img src="/images/recommended/supplements/collagen.jpg" alt="Колаген на прах"></a></div>
     <h3><a href="https://realfood.bg/products/hidroliziran-kolagen-realfood">Колаген на прах</a></h3>
     <div class="product-item-description">Подобрява здравето на венците. Комбинирайте с натурален витамин С. Купете с 5% отстъпка с код RealBezKaries</div>
@@ -218,6 +242,14 @@ body_class: recommended
   </div>
 
   <div class="product-item">
+    <div class="image-wrapper"><a href="https://iherb.co/Nx4V4iSt"><img src="/images/recommended/supplements/beefliver.jpg" alt="Капсули черен дроб"></a></div>
+    <h3><a href="https://iherb.co/Nx4V4iSt">Телешки черен дроб</a></h3>
+    <div class="product-item-description">Пълноценен източник на Витамин А, желязо, Витамин В12 !!Да не се приема при бремнност!!</div>
+    <p><a class="button" href="https://bezkaries.com/blog/2014-07-27-храната-като-лекарство-черен-дроб/">Прочети повече</a>
+    <a class="button" href="https://iherb.co/Nx4V4iSt">Купи от iherb.com</a></p>
+  </div>
+
+<div class="product-item">
     <div class="image-wrapper"><a href="https://revita.bg/shop/govezhdi-kosten-bulyon-250-g-prakh"><img src="/images/recommended/supplements/bonebroth.jpg" alt="Костен бульон на прах"></a></div>
     <h3><a href="https://revita.bg/shop/govezhdi-kosten-bulyon-250-g-prakh">Костен бульон на прах</a></h3>
     <div class="product-item-description">Пълноценен източник на минерали Калций, Магнезий, Фосфор. Купете с 10% отстъпка с код BEZKARIES</div>
@@ -225,5 +257,20 @@ body_class: recommended
     <a class="button" href="https://revita.bg/shop/govezhdi-kosten-bulyon-250-g-prakh">Купи от revita.bg</a></p>
   </div>
 
+  </div>
+    <div class="product-item">
+    <div class="image-wrapper"><a href="https://iherb.co/kBQaYGCn"><img src="/images/recommended/supplements/traceminerals.jpg" alt="Минерални капки"></a></div>
+    <h3><a href="https://iherb.co/kBQaYGCn">Капки с минерали и микроелементи</a></h3>
+    <div class="product-item-description">Хранителна добавка с минерали, микроелементи и Бор. Борът подпомага минерализацията и задържането на Калция в костите. </div>
+    <p><a class="button" href="https://bezkaries.com/blog/2018-09-17-реминерализиране-на-растителна-диета-възможно-ли-е/">Прочети повече</a>
+    <a class="button" href="https://iherb.co/kBQaYGCn">Купи от iherb.com</a></p>
+  </div>
 
+  <div class="product-item">
+    <div class="image-wrapper"><a href="https://iherb.co/gbLB2wKK"><img src="/images/recommended/supplements/magnesiumbath.jpg" alt="Магнезиеви соли"></a></div>
+    <h3><a href="https://iherb.co/gbLB2wKK">Магнезиеви соли за вана</a></h3>
+    <div class="product-item-description">Най-добрият и безопасен начин за прием на магнезий е външно.</div>
+    <p><a class="button" href="https://bezkaries.com/blog/2019-06-05-изследване-на-коса/">Прочети повече</a>
+    <a class="button" href="https://iherb.co/gbLB2wKK">Купи от iherb.com</a></p>
+  </div>
 </div>
