@@ -137,11 +137,11 @@ body_class: recommended
   </div>
 
    <div class="product-item">
-    <div class="image-wrapper"><a href="https://dentazy.bg?sca_ref=11762652.4QkLYqxp8Hj0qDib"><img src="/images/recommended/oralcare/dentazygel.jpg" alt="Реминерализиращ гел"></a></div>
-    <h3><a href="https://dentazy.bg?sca_ref=11762652.4QkLYqxp8Hj0qDib">Реминерализиращ нощен гел  Дентази</a></h3>
+    <div class="image-wrapper"><a href="https://dentazy.bg/products/gel?view=bezkaries&sca_ref=11762652.4QkLYqxp8Hj0qDib"><img src="/images/recommended/oralcare/dentazygel.jpg" alt="Реминерализиращ гел"></a></div>
+    <h3><a href="https://dentazy.bg/products/gel?view=bezkaries&sca_ref=11762652.4QkLYqxp8Hj0qDib">Реминерализиращ нощен гел  Дентази</a></h3>
     <div class="product-item-description">Паста за зъби с micro-хидроксиапатит. Използвайте отстъпка с код BEZKARIES</div>
     <p><a class="button" href="https://bezkaries.com/blog/2020-04-11-хидроксиапатит/">Прочети повече</a>
-    <a class="button" href="https://dentazy.bg?sca_ref=11762652.4QkLYqxp8Hj0qDib">Купи от dentazy.bg</a></p>
+    <a class="button" href="https://dentazy.bg/products/gel?view=bezkaries&sca_ref=11762652.4QkLYqxp8Hj0qDib">Купи от dentazy.bg</a></p>
   </div>
 
   <div class="product-item">
